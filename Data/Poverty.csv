@@ -1,8 +1,3 @@
-"Name","Poverty"
-"Description","Individuals with incomes below the Federal Poverty Level (FPL)."
-"Source Notes","U.S. Census Bureau, American Community Survey 1-Year Estimates, Table S1701 (2005-2017); retrieved from American FactFinder;&nbsp;<a href=""http://factfinder2.census.gov/"" target=""_blank"">http://factfinder2.census.gov/</a>."
-"Notes","The Federal Poverty Level (FPL) is an income threshold calculated by the U.S. Census Bureau each year for the purpose of estimating the number of individuals and households living in poverty. The income threshold varies based on the number of children and adults in a household and the age of the head of household. In 2012, the FPL for a household consisting of two adults and two children was $23,283. The Census Bureau excludes institutionalized individuals, individuals living in military group quarters or college dorms, and unrelated individuals under 15 years of age from poverty estimates. Percents refer to the percent of the total population for whom poverty status was determined."
-
 Location,TimeFrame,DataFormat,Data,Fips
 Battery Park/Tribeca,2011,Number,4213.30301,101
 Greenwich Village,2011,Number,6219.697,102
