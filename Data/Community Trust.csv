@@ -1,0 +1,71 @@
+"Name","Community Trust"
+"Description","Percentage of adults ages 18 and older who report they strongly agree or somewhat agree that people around their neighborhood are willing to help their neighbors."
+"Source Notes","NYC DOHMH, Community Health Survey, 2015-2016; Retrieved from&nbsp;<normal><a href=""https://www1.nyc.gov/site/doh/data/data-publications/profiles.page"" target=""_blank"">https://www1.nyc.gov/site/doh/data/data-publications/profiles.page</a></normal>"
+"Notes",""
+
+Location,TimeFrame,DataFormat,Data,Fips
+New York City,2015/16,Percent,0.72,3651000
+Manhattan,2015/16,Percent,0.7,36061
+Battery Park/Tribeca,2015/16,Percent,0.7,101
+Greenwich Village,2015/16,Percent,0.7,102
+Lower East Side,2015/16,Percent,0.66,103
+Chelsea/Clinton,2015/16,Percent,0.66,104
+Midtown Business District,2015/16,Percent,0.66,105
+Murray Hill/Stuyvesant,2015/16,Percent,0.75,106
+Upper West Side,2015/16,Percent,0.71,107
+Upper East Side,2015/16,Percent,0.62,108
+Manhattanville,2015/16,Percent,0.73,109
+Central Harlem,2015/16,Percent,0.73,110
+East Harlem,2015/16,Percent,0.67,111
+Washington Heights,2015/16,Percent,0.8,112
+Bronx,2015/16,Percent,0.67,36005
+Mott Haven,2015/16,Percent,0.57,201
+Hunts Point,2015/16,Percent,0.57,202
+Morrisania,2015/16,Percent,0.62,203
+Concourse/Highbridge,2015/16,Percent,0.59,204
+University Heights,2015/16,Percent,0.65,205
+East Tremont,2015/16,Percent,0.62,206
+Bedford Park,2015/16,Percent,0.63,207
+Riverdale,2015/16,Percent,0.77,208
+Unionport/Soundview,2015/16,Percent,0.65,209
+Throgs Neck,2015/16,Percent,0.82,210
+Pelham Parkway,2015/16,Percent,0.76,211
+Williamsbridge,2015/16,Percent,0.71,212
+Brooklyn,2015/16,Percent,0.73,36047
+Williamsburg/Greenpoint,2015/16,Percent,0.77,301
+Fort Greene/Brooklyn Hts,2015/16,Percent,0.77,302
+Bedford Stuyvesant,2015/16,Percent,0.66,303
+Bushwick,2015/16,Percent,0.67,304
+East New York,2015/16,Percent,0.72,305
+Park Slope,2015/16,Percent,0.82,306
+Sunset Park,2015/16,Percent,0.69,307
+Crown Heights North,2015/16,Percent,0.69,308
+Crown Heights South,2015/16,Percent,0.75,309
+Bay Ridge,2015/16,Percent,0.74,310
+Bensonhurst,2015/16,Percent,0.67,311
+Borough Park,2015/16,Percent,0.77,312
+Coney Island,2015/16,Percent,0.77,313
+Flatbush/Midwood,2015/16,Percent,0.68,314
+Sheepshead Bay,2015/16,Percent,0.68,315
+Brownsville,2015/16,Percent,0.65,316
+East Flatbush,2015/16,Percent,0.74,317
+Canarsie,2015/16,Percent,0.8,318
+Queens,2015/16,Percent,0.73,36081
+Astoria,2015/16,Percent,0.73,401
+Sunnyside/Woodside,2015/16,Percent,0.76,402
+Jackson Heights,2015/16,Percent,0.68,403
+Elmhurst/Corona,2015/16,Percent,0.65,404
+Ridgewood/Glendale,2015/16,Percent,0.77,405
+Rego Park/Forest Hills,2015/16,Percent,0.75,406
+Flushing,2015/16,Percent,0.68,407
+Fresh Meadows/Briarwood,2015/16,Percent,0.7,408
+Woodhaven,2015/16,Percent,0.7,409
+Howard Beach,2015/16,Percent,0.77,410
+Bayside,2015/16,Percent,0.86,411
+Jamaica/St. Albans,2015/16,Percent,0.76,412
+Queens Village,2015/16,Percent,0.75,413
+The Rockaways,2015/16,Percent,0.79,414
+Staten Island,2015/16,Percent,0.83,36085
+St. George,2015/16,Percent,0.76,501
+South Beach,2015/16,Percent,0.82,502
+Tottenville,2015/16,Percent,0.86,503

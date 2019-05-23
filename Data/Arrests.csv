@@ -1,0 +1,1600 @@
+"Name","Arrests"
+"Description","Arrests by offense type.&nbsp;"
+"Source Notes","New York Police Department,&nbsp;Historical New York City Crime Data (2000-2017); Retrieved from&nbsp;<a href=""https://www1.nyc.gov/site/nypd/stats/crime-statistics/historical.page"">https://www1.nyc.gov/site/nypd/stats/crime-statistics/historical.page</a>"
+"Notes","NYPD reports crime data at the citywide and police precinct levels. CCC aggregates the data to the community district level using a population weighting formula. Rates refer to the number of felonies reported per 1,000 residents. U.S. Census Bureau 2000 Decennial Census counts were used to calculate rates for years 2000 through 2004. U.S. Census Bureau American Community Survey 1-year Estimates were used to calculate rates for years 2005 through 2016. See&nbsp;<a href=""http://admin.data.cccnewyork.org/http://data.cccnewyork.org/data/map/97/total-population#97/a/3/147/22/a"">Total Population data</a><a href=""http://admin.data.cccnewyork.org/http://data.cccnewyork.org/data/map/97/total-population#97/a/3/147/22/a"">&nbsp;</a>for more detailed notes and sources for population data. Information is accurate as of the date it was queried from the system of&nbsp;<g class=""gr_ gr_11 gr-alert gr_gramm gr_inline_cards gr_run_anim Punctuation only-del replaceWithoutSep"" id=""11"" data-gr-id=""11"">record,</g>&nbsp;but should be considered a close approximation of current records, due to complaint revisions and updates.&nbsp;<br />
+<br />
+*As of 2016, CCC will no longer present these arrest data on the Community District level. To view crime data at the Community District level, see <a href=""https://data.cccnewyork.org/data/map/1298/reported-felonies#1298/232/3/1516/22/a"" target=""_blank"">Reported Felonies</a>."
+
+Location,Offense Type,TimeFrame,DataFormat,Data,Fips
+New York City,Violent Felonies,2000,Rate,7.64546,3651000
+New York City,Violent Felonies,2001,Rate,6.77861,3651000
+New York City,Violent Felonies,2002,Rate,6.38177,3651000
+New York City,Violent Felonies,2003,Rate,5.9682,3651000
+New York City,Violent Felonies,2004,Rate,5.67787,3651000
+New York City,Violent Felonies,2005,Rate,5.63956,3651000
+New York City,Violent Felonies,2006,Rate,5.25527,3651000
+New York City,Violent Felonies,2007,Rate,4.97297,3651000
+New York City,Violent Felonies,2008,Rate,4.84319,3651000
+New York City,Violent Felonies,2009,Rate,4.41498,3651000
+New York City,Violent Felonies,2010,Rate,4.68558,3651000
+New York City,Violent Felonies,2011,Rate,4.86773,3651000
+New York City,Violent Felonies,2012,Rate,4.96468,3651000
+New York City,Violent Felonies,2013,Rate,4.89398,3651000
+New York City,Violent Felonies,2014,Rate,4.52604,3651000
+New York City,Violent Felonies,2015,Rate,4.56013,3651000
+New York City,Violent Felonies,2016,Rate,4.46492,3651000
+New York City,Violent Felonies,2017,Rate,,3651000
+New York City,Non-Violent Felonies,2000,Rate,25.50935,3651000
+New York City,Non-Violent Felonies,2001,Rate,22.93889,3651000
+New York City,Non-Violent Felonies,2002,Rate,21.8143,3651000
+New York City,Non-Violent Felonies,2003,Rate,20.04064,3651000
+New York City,Non-Violent Felonies,2004,Rate,20.39839,3651000
+New York City,Non-Violent Felonies,2005,Rate,19.91676,3651000
+New York City,Non-Violent Felonies,2006,Rate,18.81337,3651000
+New York City,Non-Violent Felonies,2007,Rate,18.22678,3651000
+New York City,Non-Violent Felonies,2008,Rate,17.50503,3651000
+New York City,Non-Violent Felonies,2009,Rate,15.90108,3651000
+New York City,Non-Violent Felonies,2010,Rate,15.41265,3651000
+New York City,Non-Violent Felonies,2011,Rate,15.01229,3651000
+New York City,Non-Violent Felonies,2012,Rate,15.19307,3651000
+New York City,Non-Violent Felonies,2013,Rate,15.20931,3651000
+New York City,Non-Violent Felonies,2014,Rate,14.74018,3651000
+New York City,Non-Violent Felonies,2015,Rate,14.38318,3651000
+New York City,Non-Violent Felonies,2016,Rate,14.28281,3651000
+New York City,Non-Violent Felonies,2017,Rate,,3651000
+New York City,Misdemeanors,2000,Rate,54.36937,3651000
+New York City,Misdemeanors,2001,Rate,50.43569,3651000
+New York City,Misdemeanors,2002,Rate,47.32928,3651000
+New York City,Misdemeanors,2003,Rate,45.63665,3651000
+New York City,Misdemeanors,2004,Rate,44.66928,3651000
+New York City,Misdemeanors,2005,Rate,44.44997,3651000
+New York City,Misdemeanors,2006,Rate,44.01695,3651000
+New York City,Misdemeanors,2007,Rate,45.75681,3651000
+New York City,Misdemeanors,2008,Rate,45.48293,3651000
+New York City,Misdemeanors,2009,Rate,46.088,3651000
+New York City,Misdemeanors,2010,Rate,47.87988,3651000
+New York City,Misdemeanors,2011,Rate,46.466,3651000
+New York City,Misdemeanors,2012,Rate,44.90555,3651000
+New York City,Misdemeanors,2013,Rate,42.75006,3651000
+New York City,Misdemeanors,2014,Rate,41.02788,3651000
+New York City,Misdemeanors,2015,Rate,37.75821,3651000
+New York City,Misdemeanors,2016,Rate,36.88651,3651000
+New York City,Misdemeanors,2017,Rate,,3651000
+New York City,Violent Felonies,2000,Number,61227,3651000
+New York City,Violent Felonies,2001,Number,54285,3651000
+New York City,Violent Felonies,2002,Number,51107,3651000
+New York City,Violent Felonies,2003,Number,47795,3651000
+New York City,Violent Felonies,2004,Number,45470,3651000
+New York City,Violent Felonies,2005,Number,44869,3651000
+New York City,Violent Felonies,2006,Number,43169,3651000
+New York City,Violent Felonies,2007,Number,41149,3651000
+New York City,Violent Felonies,2008,Number,40507,3651000
+New York City,Violent Felonies,2009,Number,37050,3651000
+New York City,Violent Felonies,2010,Number,38351,3651000
+New York City,Violent Felonies,2011,Number,40134,3651000
+New York City,Violent Felonies,2012,Number,41389,3651000
+New York City,Violent Felonies,2013,Number,41138,3651000
+New York City,Violent Felonies,2014,Number,38431,3651000
+New York City,Violent Felonies,2015,Number,38991,3651000
+New York City,Violent Felonies,2016,Number,38120,3651000
+New York City,Violent Felonies,2017,Number,35749,3651000
+New York City,Non-Violent Felonies,2000,Number,204286,3651000
+New York City,Non-Violent Felonies,2001,Number,183701,3651000
+New York City,Non-Violent Felonies,2002,Number,174695,3651000
+New York City,Non-Violent Felonies,2003,Number,160491,3651000
+New York City,Non-Violent Felonies,2004,Number,163356,3651000
+New York City,Non-Violent Felonies,2005,Number,158460,3651000
+New York City,Non-Violent Felonies,2006,Number,154541,3651000
+New York City,Non-Violent Felonies,2007,Number,150818,3651000
+New York City,Non-Violent Felonies,2008,Number,146407,3651000
+New York City,Non-Violent Felonies,2009,Number,133440,3651000
+New York City,Non-Violent Felonies,2010,Number,126151,3651000
+New York City,Non-Violent Felonies,2011,Number,123775,3651000
+New York City,Non-Violent Felonies,2012,Number,126660,3651000
+New York City,Non-Violent Felonies,2013,Number,127847,3651000
+New York City,Non-Violent Felonies,2014,Number,125160,3651000
+New York City,Non-Violent Felonies,2015,Number,122982,3651000
+New York City,Non-Violent Felonies,2016,Number,121942,3651000
+New York City,Non-Violent Felonies,2017,Number,115816,3651000
+New York City,Misdemeanors,2000,Number,435405,3651000
+New York City,Misdemeanors,2001,Number,403903,3651000
+New York City,Misdemeanors,2002,Number,379026,3651000
+New York City,Misdemeanors,2003,Number,365471,3651000
+New York City,Misdemeanors,2004,Number,357724,3651000
+New York City,Misdemeanors,2005,Number,353649,3651000
+New York City,Misdemeanors,2006,Number,361574,3651000
+New York City,Misdemeanors,2007,Number,378616,3651000
+New York City,Misdemeanors,2008,Number,380406,3651000
+New York City,Misdemeanors,2009,Number,386765,3651000
+New York City,Misdemeanors,2010,Number,391892,3651000
+New York City,Misdemeanors,2011,Number,383108,3651000
+New York City,Misdemeanors,2012,Number,374364,3651000
+New York City,Misdemeanors,2013,Number,359350,3651000
+New York City,Misdemeanors,2014,Number,348371,3651000
+New York City,Misdemeanors,2015,Number,322848,3651000
+New York City,Misdemeanors,2016,Number,314925,3651000
+New York City,Misdemeanors,2017,Number,300354,3651000
+Manhattan,Violent Felonies,2000,Number,12768,36061
+Manhattan,Violent Felonies,2001,Number,11230,36061
+Manhattan,Violent Felonies,2002,Number,10662,36061
+Manhattan,Violent Felonies,2003,Number,10064,36061
+Manhattan,Violent Felonies,2004,Number,9587,36061
+Manhattan,Violent Felonies,2005,Number,9480,36061
+Manhattan,Violent Felonies,2006,Number,8917,36061
+Manhattan,Violent Felonies,2007,Number,8418,36061
+Manhattan,Violent Felonies,2008,Number,8002,36061
+Manhattan,Violent Felonies,2009,Number,7183,36061
+Manhattan,Violent Felonies,2010,Number,7260,36061
+Manhattan,Violent Felonies,2011,Number,7193,36061
+Manhattan,Violent Felonies,2012,Number,7321,36061
+Manhattan,Violent Felonies,2013,Number,6995,36061
+Manhattan,Violent Felonies,2014,Number,6552,36061
+Manhattan,Violent Felonies,2015,Number,7019,36061
+Manhattan,Violent Felonies,2016,Number,6968,36061
+Manhattan,Violent Felonies,2017,Number,6728,36061
+Manhattan,Non-Violent Felonies,2000,Number,59005,36061
+Manhattan,Non-Violent Felonies,2001,Number,52234,36061
+Manhattan,Non-Violent Felonies,2002,Number,50440,36061
+Manhattan,Non-Violent Felonies,2003,Number,47268,36061
+Manhattan,Non-Violent Felonies,2004,Number,48672,36061
+Manhattan,Non-Violent Felonies,2005,Number,44914,36061
+Manhattan,Non-Violent Felonies,2006,Number,43111,36061
+Manhattan,Non-Violent Felonies,2007,Number,41091,36061
+Manhattan,Non-Violent Felonies,2008,Number,40125,36061
+Manhattan,Non-Violent Felonies,2009,Number,36071,36061
+Manhattan,Non-Violent Felonies,2010,Number,33321,36061
+Manhattan,Non-Violent Felonies,2011,Number,31188,36061
+Manhattan,Non-Violent Felonies,2012,Number,32278,36061
+Manhattan,Non-Violent Felonies,2013,Number,33393,36061
+Manhattan,Non-Violent Felonies,2014,Number,31323,36061
+Manhattan,Non-Violent Felonies,2015,Number,31921,36061
+Manhattan,Non-Violent Felonies,2016,Number,32355,36061
+Manhattan,Non-Violent Felonies,2017,Number,30999,36061
+Manhattan,Misdemeanors,2000,Number,114220,36061
+Manhattan,Misdemeanors,2001,Number,103564,36061
+Manhattan,Misdemeanors,2002,Number,95076,36061
+Manhattan,Misdemeanors,2003,Number,90849,36061
+Manhattan,Misdemeanors,2004,Number,91838,36061
+Manhattan,Misdemeanors,2005,Number,86620,36061
+Manhattan,Misdemeanors,2006,Number,86615,36061
+Manhattan,Misdemeanors,2007,Number,92873,36061
+Manhattan,Misdemeanors,2008,Number,93196,36061
+Manhattan,Misdemeanors,2009,Number,93974,36061
+Manhattan,Misdemeanors,2010,Number,95147,36061
+Manhattan,Misdemeanors,2011,Number,93049,36061
+Manhattan,Misdemeanors,2012,Number,94888,36061
+Manhattan,Misdemeanors,2013,Number,92909,36061
+Manhattan,Misdemeanors,2014,Number,88717,36061
+Manhattan,Misdemeanors,2015,Number,83265,36061
+Manhattan,Misdemeanors,2016,Number,83775,36061
+Manhattan,Misdemeanors,2017,Number,80277,36061
+Manhattan,Violent Felonies,2000,Rate,8.30604,36061
+Manhattan,Violent Felonies,2001,Rate,7.30551,36061
+Manhattan,Violent Felonies,2002,Rate,6.93601,36061
+Manhattan,Violent Felonies,2003,Rate,6.54699,36061
+Manhattan,Violent Felonies,2004,Rate,6.23668,36061
+Manhattan,Violent Felonies,2005,Rate,6.19699,36061
+Manhattan,Violent Felonies,2006,Rate,5.53308,36061
+Manhattan,Violent Felonies,2007,Rate,5.19352,36061
+Manhattan,Violent Felonies,2008,Rate,4.8948,36061
+Manhattan,Violent Felonies,2009,Rate,4.40931,36061
+Manhattan,Violent Felonies,2010,Rate,4.57554,36061
+Manhattan,Violent Felonies,2011,Rate,4.49016,36061
+Manhattan,Violent Felonies,2012,Rate,4.52168,36061
+Manhattan,Violent Felonies,2013,Rate,4.30155,36061
+Manhattan,Violent Felonies,2014,Rate,4.00423,36061
+Manhattan,Violent Felonies,2015,Rate,4.26812,36061
+Manhattan,Violent Felonies,2016,Rate,4.23913,36061
+Manhattan,Violent Felonies,2017,Rate,,36061
+Manhattan,Non-Violent Felonies,2000,Rate,38.38485,36061
+Manhattan,Non-Violent Felonies,2001,Rate,33.98007,36061
+Manhattan,Non-Violent Felonies,2002,Rate,32.81301,36061
+Manhattan,Non-Violent Felonies,2003,Rate,30.74951,36061
+Manhattan,Non-Violent Felonies,2004,Rate,31.66287,36061
+Manhattan,Non-Violent Felonies,2005,Rate,29.35989,36061
+Manhattan,Non-Violent Felonies,2006,Rate,26.75075,36061
+Manhattan,Non-Violent Felonies,2007,Rate,25.35125,36061
+Manhattan,Non-Violent Felonies,2008,Rate,24.54436,36061
+Manhattan,Non-Violent Felonies,2009,Rate,22.1423,36061
+Manhattan,Non-Violent Felonies,2010,Rate,21.00022,36061
+Manhattan,Non-Violent Felonies,2011,Rate,19.4688,36061
+Manhattan,Non-Violent Felonies,2012,Rate,19.93589,36061
+Manhattan,Non-Violent Felonies,2013,Rate,20.53489,36061
+Manhattan,Non-Violent Felonies,2014,Rate,19.14295,36061
+Manhattan,Non-Violent Felonies,2015,Rate,19.41055,36061
+Manhattan,Non-Violent Felonies,2016,Rate,19.68384,36061
+Manhattan,Non-Violent Felonies,2017,Rate,,36061
+Manhattan,Misdemeanors,2000,Rate,74.30417,36061
+Manhattan,Misdemeanors,2001,Rate,67.37206,36061
+Manhattan,Misdemeanors,2002,Rate,61.85032,36061
+Manhattan,Misdemeanors,2003,Rate,59.1005,36061
+Manhattan,Misdemeanors,2004,Rate,59.74388,36061
+Manhattan,Misdemeanors,2005,Rate,56.62274,36061
+Manhattan,Misdemeanors,2006,Rate,53.74536,36061
+Manhattan,Misdemeanors,2007,Rate,57.29835,36061
+Manhattan,Misdemeanors,2008,Rate,57.00776,36061
+Manhattan,Misdemeanors,2009,Rate,57.68624,36061
+Manhattan,Misdemeanors,2010,Rate,59.96541,36061
+Manhattan,Misdemeanors,2011,Rate,58.08491,36061
+Manhattan,Misdemeanors,2012,Rate,58.60576,36061
+Manhattan,Misdemeanors,2013,Rate,57.13402,36061
+Manhattan,Misdemeanors,2014,Rate,54.21911,36061
+Manhattan,Misdemeanors,2015,Rate,50.63186,36061
+Manhattan,Misdemeanors,2016,Rate,50.96628,36061
+Manhattan,Misdemeanors,2017,Rate,,36061
+Battery Park/Tribeca,Violent Felonies,2015,Rate,2.7,101
+Battery Park/Tribeca,Violent Felonies,2014,Rate,2.0229,101
+Battery Park/Tribeca,Violent Felonies,2013,Rate,2.02372,101
+Battery Park/Tribeca,Violent Felonies,2012,Rate,2.31305,101
+Battery Park/Tribeca,Violent Felonies,2011,Rate,2.26205,101
+Battery Park/Tribeca,Violent Felonies,2010,Rate,1.94224,101
+Battery Park/Tribeca,Violent Felonies,2009,Rate,2.35075,101
+Battery Park/Tribeca,Violent Felonies,2008,Rate,2.24406,101
+Battery Park/Tribeca,Violent Felonies,2007,Rate,2.55621,101
+Battery Park/Tribeca,Violent Felonies,2006,Rate,2.24408,101
+Battery Park/Tribeca,Violent Felonies,2005,Rate,3.23405,101
+Battery Park/Tribeca,Violent Felonies,2004,Rate,3.24177,101
+Battery Park/Tribeca,Violent Felonies,2003,Rate,3.349,101
+Battery Park/Tribeca,Violent Felonies,2002,Rate,4.0142,101
+Battery Park/Tribeca,Violent Felonies,2001,Rate,4.26036,101
+Battery Park/Tribeca,Violent Felonies,2000,Rate,5.12345,101
+Greenwich Village,Violent Felonies,2013,Rate,6.46591,102
+Greenwich Village,Violent Felonies,2012,Rate,6.86125,102
+Greenwich Village,Violent Felonies,2011,Rate,6.83839,102
+Greenwich Village,Violent Felonies,2010,Rate,6.19956,102
+Greenwich Village,Violent Felonies,2009,Rate,7.02197,102
+Greenwich Village,Violent Felonies,2008,Rate,6.8697,102
+Greenwich Village,Violent Felonies,2007,Rate,8.28249,102
+Greenwich Village,Violent Felonies,2006,Rate,7.80845,102
+Greenwich Village,Violent Felonies,2005,Rate,9.8529,102
+Greenwich Village,Violent Felonies,2004,Rate,9.82241,102
+Greenwich Village,Violent Felonies,2003,Rate,9.21809,102
+Greenwich Village,Violent Felonies,2002,Rate,10.32195,102
+Greenwich Village,Violent Felonies,2001,Rate,10.70226,102
+Greenwich Village,Violent Felonies,2000,Rate,13.38716,102
+Greenwich Village,Violent Felonies,2014,Rate,3.4543,102
+Greenwich Village,Violent Felonies,2015,Rate,3.5,102
+Lower East Side,Violent Felonies,2015,Rate,4.2,103
+Lower East Side,Violent Felonies,2013,Rate,3.64991,103
+Lower East Side,Violent Felonies,2012,Rate,4.10163,103
+Lower East Side,Violent Felonies,2011,Rate,3.78117,103
+Lower East Side,Violent Felonies,2010,Rate,3.85789,103
+Lower East Side,Violent Felonies,2009,Rate,4.36484,103
+Lower East Side,Violent Felonies,2008,Rate,4.10135,103
+Lower East Side,Violent Felonies,2007,Rate,4.56647,103
+Lower East Side,Violent Felonies,2006,Rate,4.01887,103
+Lower East Side,Violent Felonies,2005,Rate,5.1011,103
+Lower East Side,Violent Felonies,2004,Rate,5.04824,103
+Lower East Side,Violent Felonies,2003,Rate,4.7393,103
+Lower East Side,Violent Felonies,2002,Rate,5.02974,103
+Lower East Side,Violent Felonies,2001,Rate,5.43215,103
+Lower East Side,Violent Felonies,2000,Rate,6.88207,103
+Lower East Side,Violent Felonies,2014,Rate,4.4741,103
+Chelsea/Clinton,Violent Felonies,2013,Rate,5.81088,104
+Chelsea/Clinton,Violent Felonies,2012,Rate,5.49412,104
+Chelsea/Clinton,Violent Felonies,2011,Rate,5.68182,104
+Chelsea/Clinton,Violent Felonies,2010,Rate,5.59184,104
+Chelsea/Clinton,Violent Felonies,2009,Rate,5.5962,104
+Chelsea/Clinton,Violent Felonies,2008,Rate,7.18486,104
+Chelsea/Clinton,Violent Felonies,2007,Rate,7.68636,104
+Chelsea/Clinton,Violent Felonies,2006,Rate,8.67196,104
+Chelsea/Clinton,Violent Felonies,2005,Rate,9.15001,104
+Chelsea/Clinton,Violent Felonies,2004,Rate,9.46918,104
+Chelsea/Clinton,Violent Felonies,2003,Rate,10.33677,104
+Chelsea/Clinton,Violent Felonies,2002,Rate,10.2804,104
+Chelsea/Clinton,Violent Felonies,2001,Rate,10.96913,104
+Chelsea/Clinton,Violent Felonies,2000,Rate,13.08438,104
+Chelsea/Clinton,Violent Felonies,2014,Rate,5.8655,104
+Chelsea/Clinton,Violent Felonies,2015,Rate,6,104
+Midtown Business District,Violent Felonies,2015,Rate,8.4,105
+Midtown Business District,Violent Felonies,2014,Rate,7.8894,105
+Midtown Business District,Violent Felonies,2013,Rate,4.90007,105
+Midtown Business District,Violent Felonies,2012,Rate,5.03506,105
+Midtown Business District,Violent Felonies,2011,Rate,4.79993,105
+Midtown Business District,Violent Felonies,2010,Rate,4.89257,105
+Midtown Business District,Violent Felonies,2009,Rate,4.77809,105
+Midtown Business District,Violent Felonies,2008,Rate,5.84648,105
+Midtown Business District,Violent Felonies,2007,Rate,6.55003,105
+Midtown Business District,Violent Felonies,2006,Rate,7.3784,105
+Midtown Business District,Violent Felonies,2005,Rate,8.10447,105
+Midtown Business District,Violent Felonies,2004,Rate,8.23693,105
+Midtown Business District,Violent Felonies,2003,Rate,8.82802,105
+Midtown Business District,Violent Felonies,2002,Rate,10.53645,105
+Midtown Business District,Violent Felonies,2001,Rate,10.98852,105
+Midtown Business District,Violent Felonies,2000,Rate,12.40464,105
+Murray Hill/Stuyvesant,Violent Felonies,2013,Rate,3.65186,106
+Murray Hill/Stuyvesant,Violent Felonies,2012,Rate,4.11999,106
+Murray Hill/Stuyvesant,Violent Felonies,2011,Rate,3.84913,106
+Murray Hill/Stuyvesant,Violent Felonies,2010,Rate,3.87308,106
+Murray Hill/Stuyvesant,Violent Felonies,2009,Rate,3.92726,106
+Murray Hill/Stuyvesant,Violent Felonies,2008,Rate,4.75486,106
+Murray Hill/Stuyvesant,Violent Felonies,2007,Rate,5.32258,106
+Murray Hill/Stuyvesant,Violent Felonies,2006,Rate,5.6672,106
+Murray Hill/Stuyvesant,Violent Felonies,2005,Rate,6.03699,106
+Murray Hill/Stuyvesant,Violent Felonies,2004,Rate,6.2089,106
+Murray Hill/Stuyvesant,Violent Felonies,2003,Rate,6.78099,106
+Murray Hill/Stuyvesant,Violent Felonies,2002,Rate,7.72745,106
+Murray Hill/Stuyvesant,Violent Felonies,2001,Rate,7.91821,106
+Murray Hill/Stuyvesant,Violent Felonies,2000,Rate,9.06792,106
+Murray Hill/Stuyvesant,Violent Felonies,2014,Rate,2.4174,106
+Murray Hill/Stuyvesant,Violent Felonies,2015,Rate,2.7,106
+Upper West Side,Violent Felonies,2015,Rate,2.1,107
+Upper West Side,Violent Felonies,2014,Rate,1.9389,107
+Upper West Side,Violent Felonies,2013,Rate,2.40253,107
+Upper West Side,Violent Felonies,2012,Rate,2.45166,107
+Upper West Side,Violent Felonies,2011,Rate,2.42487,107
+Upper West Side,Violent Felonies,2010,Rate,2.24753,107
+Upper West Side,Violent Felonies,2009,Rate,2.32434,107
+Upper West Side,Violent Felonies,2008,Rate,2.90577,107
+Upper West Side,Violent Felonies,2007,Rate,2.74118,107
+Upper West Side,Violent Felonies,2006,Rate,2.98769,107
+Upper West Side,Violent Felonies,2005,Rate,3.33395,107
+Upper West Side,Violent Felonies,2004,Rate,3.42868,107
+Upper West Side,Violent Felonies,2003,Rate,3.86891,107
+Upper West Side,Violent Felonies,2002,Rate,3.77475,107
+Upper West Side,Violent Felonies,2001,Rate,4.11333,107
+Upper West Side,Violent Felonies,2000,Rate,4.36607,107
+Upper East Side,Violent Felonies,2013,Rate,0.95268,108
+Upper East Side,Violent Felonies,2012,Rate,1.21406,108
+Upper East Side,Violent Felonies,2011,Rate,1.27389,108
+Upper East Side,Violent Felonies,2010,Rate,1.19215,108
+Upper East Side,Violent Felonies,2009,Rate,0.99404,108
+Upper East Side,Violent Felonies,2008,Rate,1.232,108
+Upper East Side,Violent Felonies,2007,Rate,1.61308,108
+Upper East Side,Violent Felonies,2006,Rate,1.74731,108
+Upper East Side,Violent Felonies,2005,Rate,2.02112,108
+Upper East Side,Violent Felonies,2004,Rate,2.01052,108
+Upper East Side,Violent Felonies,2003,Rate,1.94791,108
+Upper East Side,Violent Felonies,2002,Rate,2.24992,108
+Upper East Side,Violent Felonies,2001,Rate,2.37104,108
+Upper East Side,Violent Felonies,2000,Rate,2.83893,108
+Upper East Side,Violent Felonies,2014,Rate,1.1032,108
+Upper East Side,Violent Felonies,2015,Rate,1.3,108
+Manhattanville,Violent Felonies,2015,Rate,4.3,109
+Manhattanville,Violent Felonies,2014,Rate,4.6199,109
+Manhattanville,Violent Felonies,2013,Rate,5.40215,109
+Manhattanville,Violent Felonies,2012,Rate,5.71319,109
+Manhattanville,Violent Felonies,2011,Rate,5.22394,109
+Manhattanville,Violent Felonies,2010,Rate,7.01128,109
+Manhattanville,Violent Felonies,2009,Rate,5.31513,109
+Manhattanville,Violent Felonies,2008,Rate,6.34054,109
+Manhattanville,Violent Felonies,2007,Rate,6.85765,109
+Manhattanville,Violent Felonies,2006,Rate,7.57832,109
+Manhattanville,Violent Felonies,2005,Rate,8.59874,109
+Manhattanville,Violent Felonies,2004,Rate,8.86383,109
+Manhattanville,Violent Felonies,2003,Rate,8.84318,109
+Manhattanville,Violent Felonies,2002,Rate,9.38303,109
+Manhattanville,Violent Felonies,2001,Rate,9.67514,109
+Manhattanville,Violent Felonies,2000,Rate,10.57739,109
+Central Harlem,Violent Felonies,2013,Rate,7.51602,110
+Central Harlem,Violent Felonies,2012,Rate,7.52925,110
+Central Harlem,Violent Felonies,2011,Rate,8.61625,110
+Central Harlem,Violent Felonies,2010,Rate,9.49443,110
+Central Harlem,Violent Felonies,2009,Rate,8.6888,110
+Central Harlem,Violent Felonies,2008,Rate,8.91546,110
+Central Harlem,Violent Felonies,2007,Rate,9.28443,110
+Central Harlem,Violent Felonies,2006,Rate,11.48653,110
+Central Harlem,Violent Felonies,2005,Rate,11.53821,110
+Central Harlem,Violent Felonies,2004,Rate,11.19418,110
+Central Harlem,Violent Felonies,2003,Rate,12.52809,110
+Central Harlem,Violent Felonies,2002,Rate,12.67057,110
+Central Harlem,Violent Felonies,2001,Rate,14.55323,110
+Central Harlem,Violent Felonies,2000,Rate,15.55941,110
+Central Harlem,Violent Felonies,2014,Rate,7.3394,110
+Central Harlem,Violent Felonies,2015,Rate,7.9,110
+East Harlem,Violent Felonies,2015,Rate,9.5,111
+East Harlem,Violent Felonies,2014,Rate,8.6036,111
+East Harlem,Violent Felonies,2013,Rate,9.09018,111
+East Harlem,Violent Felonies,2012,Rate,9.27664,111
+East Harlem,Violent Felonies,2011,Rate,7.89644,111
+East Harlem,Violent Felonies,2010,Rate,8.22196,111
+East Harlem,Violent Felonies,2009,Rate,8.38988,111
+East Harlem,Violent Felonies,2008,Rate,8.69801,111
+East Harlem,Violent Felonies,2007,Rate,8.8704,111
+East Harlem,Violent Felonies,2006,Rate,8.57368,111
+East Harlem,Violent Felonies,2005,Rate,10.76402,111
+East Harlem,Violent Felonies,2004,Rate,10.79458,111
+East Harlem,Violent Felonies,2003,Rate,11.20369,111
+East Harlem,Violent Felonies,2002,Rate,11.52121,111
+East Harlem,Violent Felonies,2001,Rate,11.74726,111
+East Harlem,Violent Felonies,2000,Rate,13.58895,111
+Washington Heights,Violent Felonies,2013,Rate,4.07043,112
+Washington Heights,Violent Felonies,2012,Rate,4.18158,112
+Washington Heights,Violent Felonies,2011,Rate,4.74179,112
+Washington Heights,Violent Felonies,2010,Rate,5.14405,112
+Washington Heights,Violent Felonies,2009,Rate,4.38357,112
+Washington Heights,Violent Felonies,2008,Rate,4.74124,112
+Washington Heights,Violent Felonies,2007,Rate,4.43802,112
+Washington Heights,Violent Felonies,2006,Rate,5.02056,112
+Washington Heights,Violent Felonies,2005,Rate,5.19961,112
+Washington Heights,Violent Felonies,2004,Rate,5.41676,112
+Washington Heights,Violent Felonies,2003,Rate,5.85175,112
+Washington Heights,Violent Felonies,2002,Rate,6.1706,112
+Washington Heights,Violent Felonies,2001,Rate,6.14334,112
+Washington Heights,Violent Felonies,2000,Rate,6.31847,112
+Washington Heights,Violent Felonies,2014,Rate,3.4809,112
+Washington Heights,Violent Felonies,2015,Rate,3.9,112
+Bronx,Violent Felonies,2000,Rate,9.76701,36005
+Bronx,Violent Felonies,2001,Rate,8.6767,36005
+Bronx,Violent Felonies,2002,Rate,8.32852,36005
+Bronx,Violent Felonies,2003,Rate,7.86403,36005
+Bronx,Violent Felonies,2004,Rate,7.61265,36005
+Bronx,Violent Felonies,2005,Rate,7.57918,36005
+Bronx,Violent Felonies,2006,Rate,7.22086,36005
+Bronx,Violent Felonies,2007,Rate,6.89036,36005
+Bronx,Violent Felonies,2008,Rate,6.74616,36005
+Bronx,Violent Felonies,2009,Rate,6.32941,36005
+Bronx,Violent Felonies,2010,Rate,6.82505,36005
+Bronx,Violent Felonies,2011,Rate,6.79309,36005
+Bronx,Violent Felonies,2012,Rate,7.07717,36005
+Bronx,Violent Felonies,2013,Rate,7.22828,36005
+Bronx,Violent Felonies,2014,Rate,6.66408,36005
+Bronx,Violent Felonies,2015,Rate,7.00954,36005
+Bronx,Violent Felonies,2016,Rate,7.09271,36005
+Bronx,Violent Felonies,2017,Rate,,36005
+Bronx,Non-Violent Felonies,2000,Rate,28.42832,36005
+Bronx,Non-Violent Felonies,2001,Rate,25.73294,36005
+Bronx,Non-Violent Felonies,2002,Rate,24.24643,36005
+Bronx,Non-Violent Felonies,2003,Rate,22.70289,36005
+Bronx,Non-Violent Felonies,2004,Rate,22.3502,36005
+Bronx,Non-Violent Felonies,2005,Rate,21.95718,36005
+Bronx,Non-Violent Felonies,2006,Rate,20.59754,36005
+Bronx,Non-Violent Felonies,2007,Rate,21.22215,36005
+Bronx,Non-Violent Felonies,2008,Rate,20.43677,36005
+Bronx,Non-Violent Felonies,2009,Rate,18.90234,36005
+Bronx,Non-Violent Felonies,2010,Rate,17.447,36005
+Bronx,Non-Violent Felonies,2011,Rate,17.07828,36005
+Bronx,Non-Violent Felonies,2012,Rate,16.48594,36005
+Bronx,Non-Violent Felonies,2013,Rate,15.86204,36005
+Bronx,Non-Violent Felonies,2014,Rate,15.23754,36005
+Bronx,Non-Violent Felonies,2015,Rate,15.04215,36005
+Bronx,Non-Violent Felonies,2016,Rate,15.31545,36005
+Bronx,Non-Violent Felonies,2017,Rate,,36005
+Bronx,Misdemeanors,2000,Rate,69.44059,36005
+Bronx,Misdemeanors,2001,Rate,62.7344,36005
+Bronx,Misdemeanors,2002,Rate,60.5943,36005
+Bronx,Misdemeanors,2003,Rate,61.7604,36005
+Bronx,Misdemeanors,2004,Rate,61.57806,36005
+Bronx,Misdemeanors,2005,Rate,62.88598,36005
+Bronx,Misdemeanors,2006,Rate,61.99095,36005
+Bronx,Misdemeanors,2007,Rate,65.56722,36005
+Bronx,Misdemeanors,2008,Rate,64.53826,36005
+Bronx,Misdemeanors,2009,Rate,67.3226,36005
+Bronx,Misdemeanors,2010,Rate,68.26995,36005
+Bronx,Misdemeanors,2011,Rate,64.43453,36005
+Bronx,Misdemeanors,2012,Rate,61.26919,36005
+Bronx,Misdemeanors,2013,Rate,57.11646,36005
+Bronx,Misdemeanors,2014,Rate,55.34228,36005
+Bronx,Misdemeanors,2015,Rate,50.84634,36005
+Bronx,Misdemeanors,2016,Rate,48.74701,36005
+Bronx,Misdemeanors,2017,Rate,,36005
+Bronx,Violent Felonies,2000,Number,13016,36005
+Bronx,Violent Felonies,2001,Number,11563,36005
+Bronx,Violent Felonies,2002,Number,11099,36005
+Bronx,Violent Felonies,2003,Number,10480,36005
+Bronx,Violent Felonies,2004,Number,10145,36005
+Bronx,Violent Felonies,2005,Number,9926,36005
+Bronx,Violent Felonies,2006,Number,9831,36005
+Bronx,Violent Felonies,2007,Number,9465,36005
+Bronx,Violent Felonies,2008,Number,9390,36005
+Bronx,Violent Felonies,2009,Number,8844,36005
+Bronx,Violent Felonies,2010,Number,9464,36005
+Bronx,Violent Felonies,2011,Number,9456,36005
+Bronx,Violent Felonies,2012,Number,9968,36005
+Bronx,Violent Felonies,2013,Number,10255,36005
+Bronx,Violent Felonies,2014,Number,9584,36005
+Bronx,Violent Felonies,2015,Number,10202,36005
+Bronx,Violent Felonies,2016,Number,10325,36005
+Bronx,Violent Felonies,2017,Number,9442,36005
+Bronx,Non-Violent Felonies,2000,Number,37885,36005
+Bronx,Non-Violent Felonies,2001,Number,34293,36005
+Bronx,Non-Violent Felonies,2002,Number,32312,36005
+Bronx,Non-Violent Felonies,2003,Number,30255,36005
+Bronx,Non-Violent Felonies,2004,Number,29785,36005
+Bronx,Non-Violent Felonies,2005,Number,28756,36005
+Bronx,Non-Violent Felonies,2006,Number,28043,36005
+Bronx,Non-Violent Felonies,2007,Number,29152,36005
+Bronx,Non-Violent Felonies,2008,Number,28446,36005
+Bronx,Non-Violent Felonies,2009,Number,26412,36005
+Bronx,Non-Violent Felonies,2010,Number,24193,36005
+Bronx,Non-Violent Felonies,2011,Number,23773,36005
+Bronx,Non-Violent Felonies,2012,Number,23220,36005
+Bronx,Non-Violent Felonies,2013,Number,22504,36005
+Bronx,Non-Violent Felonies,2014,Number,21914,36005
+Bronx,Non-Violent Felonies,2015,Number,21893,36005
+Bronx,Non-Violent Felonies,2016,Number,22295,36005
+Bronx,Non-Violent Felonies,2017,Number,21217,36005
+Bronx,Misdemeanors,2000,Number,92540,36005
+Bronx,Misdemeanors,2001,Number,83603,36005
+Bronx,Misdemeanors,2002,Number,80751,36005
+Bronx,Misdemeanors,2003,Number,82305,36005
+Bronx,Misdemeanors,2004,Number,82062,36005
+Bronx,Misdemeanors,2005,Number,82358,36005
+Bronx,Misdemeanors,2006,Number,84399,36005
+Bronx,Misdemeanors,2007,Number,90067,36005
+Bronx,Misdemeanors,2008,Number,89831,36005
+Bronx,Misdemeanors,2009,Number,94069,36005
+Bronx,Misdemeanors,2010,Number,94667,36005
+Bronx,Misdemeanors,2011,Number,89693,36005
+Bronx,Misdemeanors,2012,Number,86296,36005
+Bronx,Misdemeanors,2013,Number,81033,36005
+Bronx,Misdemeanors,2014,Number,79591,36005
+Bronx,Misdemeanors,2015,Number,74004,36005
+Bronx,Misdemeanors,2016,Number,70962,36005
+Bronx,Misdemeanors,2017,Number,66315,36005
+Mott Haven,Violent Felonies,2015,Rate,10.8,201
+Mott Haven,Violent Felonies,2013,Rate,9.90124,201
+Mott Haven,Violent Felonies,2012,Rate,9.02819,201
+Mott Haven,Violent Felonies,2011,Rate,9.22715,201
+Mott Haven,Violent Felonies,2010,Rate,10.01126,201
+Mott Haven,Violent Felonies,2009,Rate,8.97249,201
+Mott Haven,Violent Felonies,2008,Rate,10.08865,201
+Mott Haven,Violent Felonies,2007,Rate,9.66588,201
+Mott Haven,Violent Felonies,2006,Rate,11.13038,201
+Mott Haven,Violent Felonies,2005,Rate,11.94125,201
+Mott Haven,Violent Felonies,2004,Rate,13.11561,201
+Mott Haven,Violent Felonies,2003,Rate,14.50845,201
+Mott Haven,Violent Felonies,2002,Rate,13.83902,201
+Mott Haven,Violent Felonies,2001,Rate,14.27719,201
+Mott Haven,Violent Felonies,2000,Rate,15.23874,201
+Mott Haven,Violent Felonies,2014,Rate,8.5719,201
+Hunts Point,Violent Felonies,2015,Rate,10,202
+Hunts Point,Violent Felonies,2014,Rate,10.3205,202
+Hunts Point,Violent Felonies,2013,Rate,18.74711,202
+Hunts Point,Violent Felonies,2012,Rate,15.72394,202
+Hunts Point,Violent Felonies,2011,Rate,13.6259,202
+Hunts Point,Violent Felonies,2010,Rate,13.53214,202
+Hunts Point,Violent Felonies,2009,Rate,11.71255,202
+Hunts Point,Violent Felonies,2008,Rate,12.39288,202
+Hunts Point,Violent Felonies,2007,Rate,12.36244,202
+Hunts Point,Violent Felonies,2006,Rate,13.28751,202
+Hunts Point,Violent Felonies,2005,Rate,13.76512,202
+Hunts Point,Violent Felonies,2004,Rate,13.45968,202
+Hunts Point,Violent Felonies,2003,Rate,14.99231,202
+Hunts Point,Violent Felonies,2002,Rate,15.07774,202
+Hunts Point,Violent Felonies,2001,Rate,17.91816,202
+Hunts Point,Violent Felonies,2000,Rate,22.25355,202
+Morrisania,Violent Felonies,2013,Rate,9.32368,203
+Morrisania,Violent Felonies,2012,Rate,8.72334,203
+Morrisania,Violent Felonies,2011,Rate,8.04791,203
+Morrisania,Violent Felonies,2010,Rate,8.46268,203
+Morrisania,Violent Felonies,2009,Rate,8.30283,203
+Morrisania,Violent Felonies,2008,Rate,9.03542,203
+Morrisania,Violent Felonies,2007,Rate,9.68279,203
+Morrisania,Violent Felonies,2006,Rate,10.24908,203
+Morrisania,Violent Felonies,2005,Rate,12.74403,203
+Morrisania,Violent Felonies,2004,Rate,11.7123,203
+Morrisania,Violent Felonies,2003,Rate,11.53498,203
+Morrisania,Violent Felonies,2002,Rate,12.0308,203
+Morrisania,Violent Felonies,2001,Rate,12.77452,203
+Morrisania,Violent Felonies,2000,Rate,14.10156,203
+Morrisania,Violent Felonies,2014,Rate,9.0897,203
+Morrisania,Violent Felonies,2015,Rate,8.7,203
+Concourse/Highbridge,Violent Felonies,2015,Rate,8.5,204
+Concourse/Highbridge,Violent Felonies,2014,Rate,8.1291,204
+Concourse/Highbridge,Violent Felonies,2013,Rate,8.51467,204
+Concourse/Highbridge,Violent Felonies,2012,Rate,8.47822,204
+Concourse/Highbridge,Violent Felonies,2011,Rate,7.64685,204
+Concourse/Highbridge,Violent Felonies,2010,Rate,7.64813,204
+Concourse/Highbridge,Violent Felonies,2009,Rate,7.57487,204
+Concourse/Highbridge,Violent Felonies,2008,Rate,7.78951,204
+Concourse/Highbridge,Violent Felonies,2007,Rate,7.63742,204
+Concourse/Highbridge,Violent Felonies,2006,Rate,8.51413,204
+Concourse/Highbridge,Violent Felonies,2005,Rate,8.67385,204
+Concourse/Highbridge,Violent Felonies,2004,Rate,9.1482,204
+Concourse/Highbridge,Violent Felonies,2003,Rate,8.71291,204
+Concourse/Highbridge,Violent Felonies,2002,Rate,10.41823,204
+Concourse/Highbridge,Violent Felonies,2001,Rate,10.86248,204
+Concourse/Highbridge,Violent Felonies,2000,Rate,12.48182,204
+University Heights,Violent Felonies,2013,Rate,7.28698,205
+University Heights,Violent Felonies,2012,Rate,6.70311,205
+University Heights,Violent Felonies,2011,Rate,6.4416,205
+University Heights,Violent Felonies,2010,Rate,6.87988,205
+University Heights,Violent Felonies,2009,Rate,5.65718,205
+University Heights,Violent Felonies,2008,Rate,7.19105,205
+University Heights,Violent Felonies,2007,Rate,8.40148,205
+University Heights,Violent Felonies,2006,Rate,8.58372,205
+University Heights,Violent Felonies,2005,Rate,8.8705,205
+University Heights,Violent Felonies,2004,Rate,9.32695,205
+University Heights,Violent Felonies,2003,Rate,10.33411,205
+University Heights,Violent Felonies,2002,Rate,10.99655,205
+University Heights,Violent Felonies,2001,Rate,10.60688,205
+University Heights,Violent Felonies,2000,Rate,10.73936,205
+University Heights,Violent Felonies,2014,Rate,6.752,205
+University Heights,Violent Felonies,2015,Rate,7,205
+East Tremont,Violent Felonies,2015,Rate,10.7,206
+East Tremont,Violent Felonies,2014,Rate,10.4235,206
+East Tremont,Violent Felonies,2013,Rate,10.67977,206
+East Tremont,Violent Felonies,2012,Rate,10.05776,206
+East Tremont,Violent Felonies,2011,Rate,8.94659,206
+East Tremont,Violent Felonies,2010,Rate,9.52347,206
+East Tremont,Violent Felonies,2009,Rate,10.13418,206
+East Tremont,Violent Felonies,2008,Rate,9.94811,206
+East Tremont,Violent Felonies,2007,Rate,9.90865,206
+East Tremont,Violent Felonies,2006,Rate,9.4433,206
+East Tremont,Violent Felonies,2005,Rate,10.09167,206
+East Tremont,Violent Felonies,2004,Rate,10.42574,206
+East Tremont,Violent Felonies,2003,Rate,10.31868,206
+East Tremont,Violent Felonies,2002,Rate,11.93056,206
+East Tremont,Violent Felonies,2001,Rate,12.11553,206
+East Tremont,Violent Felonies,2000,Rate,13.47638,206
+Bedford Park,Violent Felonies,2013,Rate,7.76634,207
+Bedford Park,Violent Felonies,2012,Rate,7.60243,207
+Bedford Park,Violent Felonies,2011,Rate,8.02207,207
+Bedford Park,Violent Felonies,2010,Rate,7.20824,207
+Bedford Park,Violent Felonies,2009,Rate,7.2684,207
+Bedford Park,Violent Felonies,2008,Rate,8.18917,207
+Bedford Park,Violent Felonies,2007,Rate,8.54202,207
+Bedford Park,Violent Felonies,2006,Rate,8.45817,207
+Bedford Park,Violent Felonies,2005,Rate,7.68617,207
+Bedford Park,Violent Felonies,2004,Rate,8.26396,207
+Bedford Park,Violent Felonies,2003,Rate,8.3869,207
+Bedford Park,Violent Felonies,2002,Rate,8.7617,207
+Bedford Park,Violent Felonies,2001,Rate,8.78291,207
+Bedford Park,Violent Felonies,2000,Rate,10.16894,207
+Bedford Park,Violent Felonies,2014,Rate,7.4611,207
+Bedford Park,Violent Felonies,2015,Rate,8.1,207
+Riverdale,Violent Felonies,2015,Rate,2.5,208
+Riverdale,Violent Felonies,2014,Rate,2.784,208
+Riverdale,Violent Felonies,2013,Rate,2.89667,208
+Riverdale,Violent Felonies,2012,Rate,2.80107,208
+Riverdale,Violent Felonies,2011,Rate,3.0833,208
+Riverdale,Violent Felonies,2010,Rate,2.91944,208
+Riverdale,Violent Felonies,2009,Rate,2.4167,208
+Riverdale,Violent Felonies,2008,Rate,2.45375,208
+Riverdale,Violent Felonies,2007,Rate,2.72157,208
+Riverdale,Violent Felonies,2006,Rate,3.10255,208
+Riverdale,Violent Felonies,2005,Rate,3.64428,208
+Riverdale,Violent Felonies,2004,Rate,3.66425,208
+Riverdale,Violent Felonies,2003,Rate,3.75005,208
+Riverdale,Violent Felonies,2002,Rate,3.46386,208
+Riverdale,Violent Felonies,2001,Rate,3.81913,208
+Riverdale,Violent Felonies,2000,Rate,4.04611,208
+Unionport/Soundview,Violent Felonies,2013,Rate,6.80068,209
+Unionport/Soundview,Violent Felonies,2012,Rate,6.57789,209
+Unionport/Soundview,Violent Felonies,2011,Rate,6.08515,209
+Unionport/Soundview,Violent Felonies,2010,Rate,6.35527,209
+Unionport/Soundview,Violent Felonies,2009,Rate,5.76785,209
+Unionport/Soundview,Violent Felonies,2008,Rate,6.01589,209
+Unionport/Soundview,Violent Felonies,2007,Rate,6.49881,209
+Unionport/Soundview,Violent Felonies,2006,Rate,6.12541,209
+Unionport/Soundview,Violent Felonies,2005,Rate,6.48248,209
+Unionport/Soundview,Violent Felonies,2004,Rate,6.57748,209
+Unionport/Soundview,Violent Felonies,2003,Rate,7.14886,209
+Unionport/Soundview,Violent Felonies,2002,Rate,7.87566,209
+Unionport/Soundview,Violent Felonies,2001,Rate,7.83991,209
+Unionport/Soundview,Violent Felonies,2000,Rate,8.65012,209
+Unionport/Soundview,Violent Felonies,2014,Rate,6.6197,209
+Unionport/Soundview,Violent Felonies,2015,Rate,7,209
+Throgs Neck,Violent Felonies,2015,Rate,3.1,210
+Throgs Neck,Violent Felonies,2014,Rate,2.8133,210
+Throgs Neck,Violent Felonies,2013,Rate,2.82618,210
+Throgs Neck,Violent Felonies,2012,Rate,3.30138,210
+Throgs Neck,Violent Felonies,2011,Rate,3.20622,210
+Throgs Neck,Violent Felonies,2010,Rate,3.64642,210
+Throgs Neck,Violent Felonies,2009,Rate,3.34247,210
+Throgs Neck,Violent Felonies,2008,Rate,3.12789,210
+Throgs Neck,Violent Felonies,2007,Rate,3.30084,210
+Throgs Neck,Violent Felonies,2006,Rate,3.67283,210
+Throgs Neck,Violent Felonies,2005,Rate,4.46147,210
+Throgs Neck,Violent Felonies,2004,Rate,4.29849,210
+Throgs Neck,Violent Felonies,2003,Rate,3.29458,210
+Throgs Neck,Violent Felonies,2002,Rate,3.32045,210
+Throgs Neck,Violent Felonies,2001,Rate,3.69131,210
+Throgs Neck,Violent Felonies,2000,Rate,3.95867,210
+Pelham Parkway,Violent Felonies,2013,Rate,3.26546,211
+Pelham Parkway,Violent Felonies,2012,Rate,4.57898,211
+Pelham Parkway,Violent Felonies,2011,Rate,5.35146,211
+Pelham Parkway,Violent Felonies,2010,Rate,5.40483,211
+Pelham Parkway,Violent Felonies,2009,Rate,3.93008,211
+Pelham Parkway,Violent Felonies,2008,Rate,4.48984,211
+Pelham Parkway,Violent Felonies,2007,Rate,4.29996,211
+Pelham Parkway,Violent Felonies,2006,Rate,4.39633,211
+Pelham Parkway,Violent Felonies,2005,Rate,4.23031,211
+Pelham Parkway,Violent Felonies,2004,Rate,4.20523,211
+Pelham Parkway,Violent Felonies,2003,Rate,4.16418,211
+Pelham Parkway,Violent Felonies,2002,Rate,4.4442,211
+Pelham Parkway,Violent Felonies,2001,Rate,4.95908,211
+Pelham Parkway,Violent Felonies,2000,Rate,6.50371,211
+Pelham Parkway,Violent Felonies,2014,Rate,2.8374,211
+Pelham Parkway,Violent Felonies,2015,Rate,3.4,211
+Williamsbridge,Violent Felonies,2015,Rate,7.2,212
+Williamsbridge,Violent Felonies,2014,Rate,7.5755,212
+Williamsbridge,Violent Felonies,2013,Rate,7.37544,212
+Williamsbridge,Violent Felonies,2012,Rate,7.33428,212
+Williamsbridge,Violent Felonies,2011,Rate,6.816,212
+Williamsbridge,Violent Felonies,2010,Rate,6.06522,212
+Williamsbridge,Violent Felonies,2009,Rate,6.20608,212
+Williamsbridge,Violent Felonies,2008,Rate,6.3563,212
+Williamsbridge,Violent Felonies,2007,Rate,5.49299,212
+Williamsbridge,Violent Felonies,2006,Rate,6.11563,212
+Williamsbridge,Violent Felonies,2005,Rate,5.82923,212
+Williamsbridge,Violent Felonies,2004,Rate,5.69466,212
+Williamsbridge,Violent Felonies,2003,Rate,5.78896,212
+Williamsbridge,Violent Felonies,2002,Rate,5.86274,212
+Williamsbridge,Violent Felonies,2001,Rate,6.43292,212
+Williamsbridge,Violent Felonies,2000,Rate,7.62022,212
+Brooklyn,Violent Felonies,2000,Number,22434,36047
+Brooklyn,Violent Felonies,2001,Number,19887,36047
+Brooklyn,Violent Felonies,2002,Number,18374,36047
+Brooklyn,Violent Felonies,2003,Number,17296,36047
+Brooklyn,Violent Felonies,2004,Number,16078,36047
+Brooklyn,Violent Felonies,2005,Number,15824,36047
+Brooklyn,Violent Felonies,2006,Number,14979,36047
+Brooklyn,Violent Felonies,2007,Number,14294,36047
+Brooklyn,Violent Felonies,2008,Number,14064,36047
+Brooklyn,Violent Felonies,2009,Number,12569,36047
+Brooklyn,Violent Felonies,2010,Number,12971,36047
+Brooklyn,Violent Felonies,2011,Number,14295,36047
+Brooklyn,Violent Felonies,2012,Number,14544,36047
+Brooklyn,Violent Felonies,2013,Number,14302,36047
+Brooklyn,Violent Felonies,2014,Number,13168,36047
+Brooklyn,Violent Felonies,2015,Number,12617,36047
+Brooklyn,Violent Felonies,2016,Number,11913,36047
+Brooklyn,Violent Felonies,2017,Number,11128,36047
+Brooklyn,Non-Violent Felonies,2000,Number,57274,36047
+Brooklyn,Non-Violent Felonies,2001,Number,52596,36047
+Brooklyn,Non-Violent Felonies,2002,Number,49133,36047
+Brooklyn,Non-Violent Felonies,2003,Number,45013,36047
+Brooklyn,Non-Violent Felonies,2004,Number,46143,36047
+Brooklyn,Non-Violent Felonies,2005,Number,47110,36047
+Brooklyn,Non-Violent Felonies,2006,Number,46034,36047
+Brooklyn,Non-Violent Felonies,2007,Number,45127,36047
+Brooklyn,Non-Violent Felonies,2008,Number,43684,36047
+Brooklyn,Non-Violent Felonies,2009,Number,39604,36047
+Brooklyn,Non-Violent Felonies,2010,Number,37861,36047
+Brooklyn,Non-Violent Felonies,2011,Number,37989,36047
+Brooklyn,Non-Violent Felonies,2012,Number,39562,36047
+Brooklyn,Non-Violent Felonies,2013,Number,39531,36047
+Brooklyn,Non-Violent Felonies,2014,Number,39547,36047
+Brooklyn,Non-Violent Felonies,2015,Number,38165,36047
+Brooklyn,Non-Violent Felonies,2016,Number,36341,36047
+Brooklyn,Non-Violent Felonies,2017,Number,35331,36047
+Brooklyn,Misdemeanors,2000,Number,130903,36047
+Brooklyn,Misdemeanors,2001,Number,123611,36047
+Brooklyn,Misdemeanors,2002,Number,112944,36047
+Brooklyn,Misdemeanors,2003,Number,109055,36047
+Brooklyn,Misdemeanors,2004,Number,103224,36047
+Brooklyn,Misdemeanors,2005,Number,104548,36047
+Brooklyn,Misdemeanors,2006,Number,105381,36047
+Brooklyn,Misdemeanors,2007,Number,108470,36047
+Brooklyn,Misdemeanors,2008,Number,108202,36047
+Brooklyn,Misdemeanors,2009,Number,113054,36047
+Brooklyn,Misdemeanors,2010,Number,115169,36047
+Brooklyn,Misdemeanors,2011,Number,113851,36047
+Brooklyn,Misdemeanors,2012,Number,110487,36047
+Brooklyn,Misdemeanors,2013,Number,102603,36047
+Brooklyn,Misdemeanors,2014,Number,97938,36047
+Brooklyn,Misdemeanors,2015,Number,90857,36047
+Brooklyn,Misdemeanors,2016,Number,88298,36047
+Brooklyn,Misdemeanors,2017,Number,84996,36047
+Brooklyn,Violent Felonies,2000,Rate,9.09981,36047
+Brooklyn,Violent Felonies,2001,Rate,8.06668,36047
+Brooklyn,Violent Felonies,2002,Rate,7.45297,36047
+Brooklyn,Violent Felonies,2003,Rate,7.01571,36047
+Brooklyn,Violent Felonies,2004,Rate,6.52165,36047
+Brooklyn,Violent Felonies,2005,Rate,6.4693,36047
+Brooklyn,Violent Felonies,2006,Rate,5.97054,36047
+Brooklyn,Violent Felonies,2007,Rate,5.65416,36047
+Brooklyn,Violent Felonies,2008,Rate,5.50106,36047
+Brooklyn,Violent Felonies,2009,Rate,4.89619,36047
+Brooklyn,Violent Felonies,2010,Rate,5.17115,36047
+Brooklyn,Violent Felonies,2011,Rate,5.6443,36047
+Brooklyn,Violent Felonies,2012,Rate,5.66877,36047
+Brooklyn,Violent Felonies,2013,Rate,5.51743,36047
+Brooklyn,Violent Felonies,2014,Rate,5.02252,36047
+Brooklyn,Violent Felonies,2015,Rate,4.78508,36047
+Brooklyn,Violent Felonies,2016,Rate,4.53112,36047
+Brooklyn,Violent Felonies,2017,Rate,,36047
+Brooklyn,Non-Violent Felonies,2000,Rate,23.23182,36047
+Brooklyn,Non-Violent Felonies,2001,Rate,21.3343,36047
+Brooklyn,Non-Violent Felonies,2002,Rate,19.92962,36047
+Brooklyn,Non-Violent Felonies,2003,Rate,18.25844,36047
+Brooklyn,Non-Violent Felonies,2004,Rate,18.71679,36047
+Brooklyn,Non-Violent Felonies,2005,Rate,19.25989,36047
+Brooklyn,Non-Violent Felonies,2006,Rate,18.34887,36047
+Brooklyn,Non-Violent Felonies,2007,Rate,17.85052,36047
+Brooklyn,Non-Violent Felonies,2008,Rate,17.08677,36047
+Brooklyn,Non-Violent Felonies,2009,Rate,15.42754,36047
+Brooklyn,Non-Violent Felonies,2010,Rate,15.09405,36047
+Brooklyn,Non-Violent Felonies,2011,Rate,14.99973,36047
+Brooklyn,Non-Violent Felonies,2012,Rate,15.41996,36047
+Brooklyn,Non-Violent Felonies,2013,Rate,15.25028,36047
+Brooklyn,Non-Violent Felonies,2014,Rate,15.08395,36047
+Brooklyn,Non-Violent Felonies,2015,Rate,14.47434,36047
+Brooklyn,Non-Violent Felonies,2016,Rate,13.82234,36047
+Brooklyn,Non-Violent Felonies,2017,Rate,,36047
+Brooklyn,Misdemeanors,2000,Rate,53.09764,36047
+Brooklyn,Misdemeanors,2001,Rate,50.13982,36047
+Brooklyn,Misdemeanors,2002,Rate,45.81301,36047
+Brooklyn,Misdemeanors,2003,Rate,44.23553,36047
+Brooklyn,Misdemeanors,2004,Rate,41.87032,36047
+Brooklyn,Misdemeanors,2005,Rate,42.74216,36047
+Brooklyn,Misdemeanors,2006,Rate,42.00421,36047
+Brooklyn,Misdemeanors,2007,Rate,42.90659,36047
+Brooklyn,Misdemeanors,2008,Rate,42.32265,36047
+Brooklyn,Misdemeanors,2009,Rate,44.03961,36047
+Brooklyn,Misdemeanors,2010,Rate,45.91443,36047
+Brooklyn,Misdemeanors,2011,Rate,44.9534,36047
+Brooklyn,Misdemeanors,2012,Rate,43.06419,36047
+Brooklyn,Misdemeanors,2013,Rate,39.58222,36047
+Brooklyn,Misdemeanors,2014,Rate,37.35535,36047
+Brooklyn,Misdemeanors,2015,Rate,34.45815,36047
+Brooklyn,Misdemeanors,2016,Rate,33.58424,36047
+Brooklyn,Misdemeanors,2017,Rate,,36047
+Williamsburg/Greenpoint,Violent Felonies,2015,Rate,3.9,301
+Williamsburg/Greenpoint,Violent Felonies,2013,Rate,5.64834,301
+Williamsburg/Greenpoint,Violent Felonies,2012,Rate,5.95384,301
+Williamsburg/Greenpoint,Violent Felonies,2011,Rate,6.03801,301
+Williamsburg/Greenpoint,Violent Felonies,2010,Rate,4.64517,301
+Williamsburg/Greenpoint,Violent Felonies,2009,Rate,5.50757,301
+Williamsburg/Greenpoint,Violent Felonies,2008,Rate,5.92657,301
+Williamsburg/Greenpoint,Violent Felonies,2007,Rate,6.04277,301
+Williamsburg/Greenpoint,Violent Felonies,2006,Rate,6.19024,301
+Williamsburg/Greenpoint,Violent Felonies,2005,Rate,7.04529,301
+Williamsburg/Greenpoint,Violent Felonies,2004,Rate,6.69756,301
+Williamsburg/Greenpoint,Violent Felonies,2003,Rate,5.84391,301
+Williamsburg/Greenpoint,Violent Felonies,2002,Rate,6.5549,301
+Williamsburg/Greenpoint,Violent Felonies,2001,Rate,7.1474,301
+Williamsburg/Greenpoint,Violent Felonies,2000,Rate,7.50914,301
+Williamsburg/Greenpoint,Violent Felonies,2014,Rate,4.5762,301
+Fort Greene/Brooklyn Hts,Violent Felonies,2014,Rate,4.6451,302
+Fort Greene/Brooklyn Hts,Violent Felonies,2013,Rate,5.488,302
+Fort Greene/Brooklyn Hts,Violent Felonies,2012,Rate,6.28738,302
+Fort Greene/Brooklyn Hts,Violent Felonies,2011,Rate,6.43344,302
+Fort Greene/Brooklyn Hts,Violent Felonies,2010,Rate,6.89648,302
+Fort Greene/Brooklyn Hts,Violent Felonies,2009,Rate,5.09493,302
+Fort Greene/Brooklyn Hts,Violent Felonies,2008,Rate,6.76232,302
+Fort Greene/Brooklyn Hts,Violent Felonies,2007,Rate,6.84351,302
+Fort Greene/Brooklyn Hts,Violent Felonies,2006,Rate,7.11117,302
+Fort Greene/Brooklyn Hts,Violent Felonies,2005,Rate,7.9136,302
+Fort Greene/Brooklyn Hts,Violent Felonies,2004,Rate,8.14126,302
+Fort Greene/Brooklyn Hts,Violent Felonies,2003,Rate,11.05253,302
+Fort Greene/Brooklyn Hts,Violent Felonies,2002,Rate,10.64693,302
+Fort Greene/Brooklyn Hts,Violent Felonies,2001,Rate,11.75218,302
+Fort Greene/Brooklyn Hts,Violent Felonies,2000,Rate,12.62421,302
+Fort Greene/Brooklyn Hts,Violent Felonies,2015,Rate,4.6,302
+Bedford Stuyvesant,Violent Felonies,2015,Rate,9,303
+Bedford Stuyvesant,Violent Felonies,2013,Rate,11.99601,303
+Bedford Stuyvesant,Violent Felonies,2012,Rate,12.64821,303
+Bedford Stuyvesant,Violent Felonies,2011,Rate,12.45058,303
+Bedford Stuyvesant,Violent Felonies,2010,Rate,10.56966,303
+Bedford Stuyvesant,Violent Felonies,2009,Rate,11.1309,303
+Bedford Stuyvesant,Violent Felonies,2008,Rate,11.81733,303
+Bedford Stuyvesant,Violent Felonies,2007,Rate,14.47108,303
+Bedford Stuyvesant,Violent Felonies,2006,Rate,13.86208,303
+Bedford Stuyvesant,Violent Felonies,2005,Rate,14.23734,303
+Bedford Stuyvesant,Violent Felonies,2004,Rate,14.857,303
+Bedford Stuyvesant,Violent Felonies,2003,Rate,13.83917,303
+Bedford Stuyvesant,Violent Felonies,2002,Rate,14.35354,303
+Bedford Stuyvesant,Violent Felonies,2001,Rate,15.51433,303
+Bedford Stuyvesant,Violent Felonies,2000,Rate,15.90358,303
+Bedford Stuyvesant,Violent Felonies,2014,Rate,10.5753,303
+Bushwick,Violent Felonies,2014,Rate,4.9793,304
+Bushwick,Violent Felonies,2013,Rate,5.57093,304
+Bushwick,Violent Felonies,2012,Rate,6.29425,304
+Bushwick,Violent Felonies,2011,Rate,6.11835,304
+Bushwick,Violent Felonies,2010,Rate,7.85731,304
+Bushwick,Violent Felonies,2009,Rate,5.84271,304
+Bushwick,Violent Felonies,2008,Rate,6.74531,304
+Bushwick,Violent Felonies,2007,Rate,6.63948,304
+Bushwick,Violent Felonies,2006,Rate,7.78229,304
+Bushwick,Violent Felonies,2005,Rate,8.13268,304
+Bushwick,Violent Felonies,2004,Rate,8.4528,304
+Bushwick,Violent Felonies,2003,Rate,8.92121,304
+Bushwick,Violent Felonies,2002,Rate,9.71655,304
+Bushwick,Violent Felonies,2001,Rate,11.13475,304
+Bushwick,Violent Felonies,2000,Rate,11.60429,304
+Bushwick,Violent Felonies,2015,Rate,5.3,304
+East New York,Violent Felonies,2015,Rate,10.5,305
+East New York,Violent Felonies,2013,Rate,12.24086,305
+East New York,Violent Felonies,2012,Rate,11.74667,305
+East New York,Violent Felonies,2011,Rate,11.8747,305
+East New York,Violent Felonies,2010,Rate,8.76454,305
+East New York,Violent Felonies,2009,Rate,9.52916,305
+East New York,Violent Felonies,2008,Rate,9.90086,305
+East New York,Violent Felonies,2007,Rate,10.03081,305
+East New York,Violent Felonies,2006,Rate,9.92152,305
+East New York,Violent Felonies,2005,Rate,10.93052,305
+East New York,Violent Felonies,2004,Rate,12.49103,305
+East New York,Violent Felonies,2003,Rate,11.04516,305
+East New York,Violent Felonies,2002,Rate,12.14795,305
+East New York,Violent Felonies,2001,Rate,13.42972,305
+East New York,Violent Felonies,2000,Rate,13.69531,305
+East New York,Violent Felonies,2014,Rate,11.7006,305
+Park Slope,Violent Felonies,2014,Rate,2.95,306
+Park Slope,Violent Felonies,2013,Rate,4.2123,306
+Park Slope,Violent Felonies,2012,Rate,4.43207,306
+Park Slope,Violent Felonies,2011,Rate,4.30104,306
+Park Slope,Violent Felonies,2010,Rate,3.53357,306
+Park Slope,Violent Felonies,2009,Rate,3.04493,306
+Park Slope,Violent Felonies,2008,Rate,3.55498,306
+Park Slope,Violent Felonies,2007,Rate,4.33071,306
+Park Slope,Violent Felonies,2006,Rate,4.78043,306
+Park Slope,Violent Felonies,2005,Rate,5.19085,306
+Park Slope,Violent Felonies,2004,Rate,5.20866,306
+Park Slope,Violent Felonies,2003,Rate,5.62208,306
+Park Slope,Violent Felonies,2002,Rate,5.78546,306
+Park Slope,Violent Felonies,2001,Rate,6.33325,306
+Park Slope,Violent Felonies,2000,Rate,8.59169,306
+Park Slope,Violent Felonies,2015,Rate,3.5,306
+Sunset Park,Violent Felonies,2015,Rate,3.1,307
+Sunset Park,Violent Felonies,2013,Rate,3.06118,307
+Sunset Park,Violent Felonies,2012,Rate,3.0546,307
+Sunset Park,Violent Felonies,2011,Rate,3.46624,307
+Sunset Park,Violent Felonies,2010,Rate,3.69167,307
+Sunset Park,Violent Felonies,2009,Rate,2.7979,307
+Sunset Park,Violent Felonies,2008,Rate,3.50763,307
+Sunset Park,Violent Felonies,2007,Rate,3.42736,307
+Sunset Park,Violent Felonies,2006,Rate,3.29923,307
+Sunset Park,Violent Felonies,2005,Rate,4.14197,307
+Sunset Park,Violent Felonies,2004,Rate,4.08465,307
+Sunset Park,Violent Felonies,2003,Rate,5.21393,307
+Sunset Park,Violent Felonies,2002,Rate,5.28056,307
+Sunset Park,Violent Felonies,2001,Rate,6.02184,307
+Sunset Park,Violent Felonies,2000,Rate,7.19622,307
+Sunset Park,Violent Felonies,2014,Rate,3.111,307
+Crown Heights North,Violent Felonies,2014,Rate,5.7206,308
+Crown Heights North,Violent Felonies,2013,Rate,6.84447,308
+Crown Heights North,Violent Felonies,2012,Rate,6.10431,308
+Crown Heights North,Violent Felonies,2011,Rate,5.88003,308
+Crown Heights North,Violent Felonies,2010,Rate,6.63434,308
+Crown Heights North,Violent Felonies,2009,Rate,3.85132,308
+Crown Heights North,Violent Felonies,2008,Rate,4.82875,308
+Crown Heights North,Violent Felonies,2007,Rate,5.82121,308
+Crown Heights North,Violent Felonies,2006,Rate,5.53487,308
+Crown Heights North,Violent Felonies,2005,Rate,6.14823,308
+Crown Heights North,Violent Felonies,2004,Rate,6.77782,308
+Crown Heights North,Violent Felonies,2003,Rate,10.08577,308
+Crown Heights North,Violent Felonies,2002,Rate,11.14743,308
+Crown Heights North,Violent Felonies,2001,Rate,11.02252,308
+Crown Heights North,Violent Felonies,2000,Rate,13.24993,308
+Crown Heights North,Violent Felonies,2015,Rate,5.3,308
+Crown Heights South,Violent Felonies,2015,Rate,6,309
+Crown Heights South,Violent Felonies,2013,Rate,6.37089,309
+Crown Heights South,Violent Felonies,2012,Rate,6.05366,309
+Crown Heights South,Violent Felonies,2011,Rate,6.26607,309
+Crown Heights South,Violent Felonies,2010,Rate,5.98401,309
+Crown Heights South,Violent Felonies,2009,Rate,5.86242,309
+Crown Heights South,Violent Felonies,2008,Rate,6.81373,309
+Crown Heights South,Violent Felonies,2007,Rate,6.58623,309
+Crown Heights South,Violent Felonies,2006,Rate,7.2961,309
+Crown Heights South,Violent Felonies,2005,Rate,7.96296,309
+Crown Heights South,Violent Felonies,2004,Rate,7.4537,309
+Crown Heights South,Violent Felonies,2003,Rate,9.19107,309
+Crown Heights South,Violent Felonies,2002,Rate,9.71023,309
+Crown Heights South,Violent Felonies,2001,Rate,10.95045,309
+Crown Heights South,Violent Felonies,2000,Rate,12.54639,309
+Crown Heights South,Violent Felonies,2014,Rate,6.4662,309
+Bay Ridge,Violent Felonies,2014,Rate,1.797,310
+Bay Ridge,Violent Felonies,2013,Rate,1.60024,310
+Bay Ridge,Violent Felonies,2012,Rate,1.87479,310
+Bay Ridge,Violent Felonies,2011,Rate,1.92581,310
+Bay Ridge,Violent Felonies,2010,Rate,1.68687,310
+Bay Ridge,Violent Felonies,2009,Rate,1.58372,310
+Bay Ridge,Violent Felonies,2008,Rate,2.20776,310
+Bay Ridge,Violent Felonies,2007,Rate,2.18575,310
+Bay Ridge,Violent Felonies,2006,Rate,2.29248,310
+Bay Ridge,Violent Felonies,2005,Rate,2.32429,310
+Bay Ridge,Violent Felonies,2004,Rate,2.37255,310
+Bay Ridge,Violent Felonies,2003,Rate,2.53791,310
+Bay Ridge,Violent Felonies,2002,Rate,2.51342,310
+Bay Ridge,Violent Felonies,2001,Rate,3.16626,310
+Bay Ridge,Violent Felonies,2000,Rate,3.80278,310
+Bay Ridge,Violent Felonies,2015,Rate,1.9,310
+Bensonhurst,Violent Felonies,2015,Rate,2.1,311
+Bensonhurst,Violent Felonies,2013,Rate,2.29648,311
+Bensonhurst,Violent Felonies,2012,Rate,2.15922,311
+Bensonhurst,Violent Felonies,2011,Rate,1.92024,311
+Bensonhurst,Violent Felonies,2010,Rate,1.82438,311
+Bensonhurst,Violent Felonies,2009,Rate,2.25236,311
+Bensonhurst,Violent Felonies,2008,Rate,2.3869,311
+Bensonhurst,Violent Felonies,2007,Rate,2.18172,311
+Bensonhurst,Violent Felonies,2006,Rate,2.39414,311
+Bensonhurst,Violent Felonies,2005,Rate,2.46347,311
+Bensonhurst,Violent Felonies,2004,Rate,2.95837,311
+Bensonhurst,Violent Felonies,2003,Rate,2.33546,311
+Bensonhurst,Violent Felonies,2002,Rate,2.74794,311
+Bensonhurst,Violent Felonies,2001,Rate,2.91642,311
+Bensonhurst,Violent Felonies,2000,Rate,3.67167,311
+Bensonhurst,Violent Felonies,2014,Rate,1.9772,311
+Borough Park,Violent Felonies,2014,Rate,1.6117,312
+Borough Park,Violent Felonies,2013,Rate,1.84784,312
+Borough Park,Violent Felonies,2012,Rate,2.18045,312
+Borough Park,Violent Felonies,2011,Rate,2.2272,312
+Borough Park,Violent Felonies,2010,Rate,1.87582,312
+Borough Park,Violent Felonies,2009,Rate,2.27932,312
+Borough Park,Violent Felonies,2008,Rate,2.27257,312
+Borough Park,Violent Felonies,2007,Rate,2.08288,312
+Borough Park,Violent Felonies,2006,Rate,2.47574,312
+Borough Park,Violent Felonies,2005,Rate,2.91862,312
+Borough Park,Violent Felonies,2004,Rate,2.34266,312
+Borough Park,Violent Felonies,2003,Rate,2.20486,312
+Borough Park,Violent Felonies,2002,Rate,2.45885,312
+Borough Park,Violent Felonies,2001,Rate,2.82632,312
+Borough Park,Violent Felonies,2000,Rate,3.14516,312
+Borough Park,Violent Felonies,2015,Rate,2,312
+Coney Island,Violent Felonies,2015,Rate,5,313
+Coney Island,Violent Felonies,2013,Rate,6.13735,313
+Coney Island,Violent Felonies,2012,Rate,5.33294,313
+Coney Island,Violent Felonies,2011,Rate,5.37367,313
+Coney Island,Violent Felonies,2010,Rate,4.81406,313
+Coney Island,Violent Felonies,2009,Rate,4.24984,313
+Coney Island,Violent Felonies,2008,Rate,5.75381,313
+Coney Island,Violent Felonies,2007,Rate,5.47546,313
+Coney Island,Violent Felonies,2006,Rate,6.17242,313
+Coney Island,Violent Felonies,2005,Rate,6.05972,313
+Coney Island,Violent Felonies,2004,Rate,5.57604,313
+Coney Island,Violent Felonies,2003,Rate,6.90728,313
+Coney Island,Violent Felonies,2002,Rate,7.18997,313
+Coney Island,Violent Felonies,2001,Rate,7.68941,313
+Coney Island,Violent Felonies,2000,Rate,9.1406,313
+Coney Island,Violent Felonies,2014,Rate,5.5271,313
+Flatbush/Midwood,Violent Felonies,2014,Rate,3.6797,314
+Flatbush/Midwood,Violent Felonies,2013,Rate,4.60195,314
+Flatbush/Midwood,Violent Felonies,2012,Rate,4.57496,314
+Flatbush/Midwood,Violent Felonies,2011,Rate,4.59572,314
+Flatbush/Midwood,Violent Felonies,2010,Rate,4.93577,314
+Flatbush/Midwood,Violent Felonies,2009,Rate,4.52547,314
+Flatbush/Midwood,Violent Felonies,2008,Rate,5.2204,314
+Flatbush/Midwood,Violent Felonies,2007,Rate,6.10761,314
+Flatbush/Midwood,Violent Felonies,2006,Rate,6.33358,314
+Flatbush/Midwood,Violent Felonies,2005,Rate,7.85653,314
+Flatbush/Midwood,Violent Felonies,2004,Rate,7.86291,314
+Flatbush/Midwood,Violent Felonies,2003,Rate,7.77224,314
+Flatbush/Midwood,Violent Felonies,2002,Rate,8.19876,314
+Flatbush/Midwood,Violent Felonies,2001,Rate,8.8267,314
+Flatbush/Midwood,Violent Felonies,2000,Rate,9.8397,314
+Flatbush/Midwood,Violent Felonies,2015,Rate,4,314
+Sheepshead Bay,Violent Felonies,2015,Rate,2.8,315
+Sheepshead Bay,Violent Felonies,2013,Rate,3.05519,315
+Sheepshead Bay,Violent Felonies,2012,Rate,2.72878,315
+Sheepshead Bay,Violent Felonies,2011,Rate,2.55594,315
+Sheepshead Bay,Violent Felonies,2010,Rate,1.72252,315
+Sheepshead Bay,Violent Felonies,2009,Rate,2.30965,315
+Sheepshead Bay,Violent Felonies,2008,Rate,3.02454,315
+Sheepshead Bay,Violent Felonies,2007,Rate,2.97478,315
+Sheepshead Bay,Violent Felonies,2006,Rate,2.76239,315
+Sheepshead Bay,Violent Felonies,2005,Rate,3.10202,315
+Sheepshead Bay,Violent Felonies,2004,Rate,2.98958,315
+Sheepshead Bay,Violent Felonies,2003,Rate,3.41819,315
+Sheepshead Bay,Violent Felonies,2002,Rate,3.54294,315
+Sheepshead Bay,Violent Felonies,2001,Rate,3.46809,315
+Sheepshead Bay,Violent Felonies,2000,Rate,5.28945,315
+Sheepshead Bay,Violent Felonies,2014,Rate,3.0978,315
+Brownsville,Violent Felonies,2014,Rate,8.7338,316
+Brownsville,Violent Felonies,2013,Rate,9.36646,316
+Brownsville,Violent Felonies,2012,Rate,10.03383,316
+Brownsville,Violent Felonies,2011,Rate,9.72207,316
+Brownsville,Violent Felonies,2010,Rate,13.11468,316
+Brownsville,Violent Felonies,2009,Rate,9.87398,316
+Brownsville,Violent Felonies,2008,Rate,10.36986,316
+Brownsville,Violent Felonies,2007,Rate,9.76805,316
+Brownsville,Violent Felonies,2006,Rate,10.49292,316
+Brownsville,Violent Felonies,2005,Rate,10.67161,316
+Brownsville,Violent Felonies,2004,Rate,10.2847,316
+Brownsville,Violent Felonies,2003,Rate,14.01404,316
+Brownsville,Violent Felonies,2002,Rate,15.68963,316
+Brownsville,Violent Felonies,2001,Rate,16.08802,316
+Brownsville,Violent Felonies,2000,Rate,17.34179,316
+Brownsville,Violent Felonies,2015,Rate,8,316
+East Flatbush,Violent Felonies,2015,Rate,6.9,317
+East Flatbush,Violent Felonies,2013,Rate,8.1505,317
+East Flatbush,Violent Felonies,2012,Rate,8.02991,317
+East Flatbush,Violent Felonies,2011,Rate,9.19451,317
+East Flatbush,Violent Felonies,2010,Rate,5.91941,317
+East Flatbush,Violent Felonies,2009,Rate,6.11849,317
+East Flatbush,Violent Felonies,2008,Rate,6.42103,317
+East Flatbush,Violent Felonies,2007,Rate,6.56105,317
+East Flatbush,Violent Felonies,2006,Rate,7.00183,317
+East Flatbush,Violent Felonies,2005,Rate,7.44114,317
+East Flatbush,Violent Felonies,2004,Rate,7.41325,317
+East Flatbush,Violent Felonies,2003,Rate,7.32415,317
+East Flatbush,Violent Felonies,2002,Rate,8.50663,317
+East Flatbush,Violent Felonies,2001,Rate,9.06168,317
+East Flatbush,Violent Felonies,2000,Rate,10.52771,317
+East Flatbush,Violent Felonies,2014,Rate,8.1294,317
+Canarsie,Violent Felonies,2014,Rate,3.9881,318
+Canarsie,Violent Felonies,2013,Rate,4.17324,318
+Canarsie,Violent Felonies,2012,Rate,4.57979,318
+Canarsie,Violent Felonies,2011,Rate,4.34433,318
+Canarsie,Violent Felonies,2010,Rate,4.06628,318
+Canarsie,Violent Felonies,2009,Rate,3.90739,318
+Canarsie,Violent Felonies,2008,Rate,4.16049,318
+Canarsie,Violent Felonies,2007,Rate,3.78483,318
+Canarsie,Violent Felonies,2006,Rate,4.62854,318
+Canarsie,Violent Felonies,2005,Rate,5.14318,318
+Canarsie,Violent Felonies,2004,Rate,5.24424,318
+Canarsie,Violent Felonies,2003,Rate,6.03125,318
+Canarsie,Violent Felonies,2002,Rate,5.51237,318
+Canarsie,Violent Felonies,2001,Rate,5.81548,318
+Canarsie,Violent Felonies,2000,Rate,7.16146,318
+Canarsie,Violent Felonies,2015,Rate,3.7,318
+Queens,Violent Felonies,2000,Rate,5.28847,36081
+Queens,Violent Felonies,2001,Rate,4.72733,36081
+Queens,Violent Felonies,2002,Rate,4.46492,36081
+Queens,Violent Felonies,2003,Rate,4.07154,36081
+Queens,Violent Felonies,2004,Rate,3.87058,36081
+Queens,Violent Felonies,2005,Rate,3.87074,36081
+Queens,Violent Felonies,2006,Rate,3.76734,36081
+Queens,Violent Felonies,2007,Rate,3.52106,36081
+Queens,Violent Felonies,2008,Rate,3.51765,36081
+Queens,Violent Felonies,2009,Rate,3.26005,36081
+Queens,Violent Felonies,2010,Rate,3.43444,36081
+Queens,Violent Felonies,2011,Rate,3.63281,36081
+Queens,Violent Felonies,2012,Rate,3.72409,36081
+Queens,Violent Felonies,2013,Rate,3.63169,36081
+Queens,Violent Felonies,2014,Rate,3.27105,36081
+Queens,Violent Felonies,2015,Rate,3.24178,36081
+Queens,Violent Felonies,2016,Rate,3.11352,36081
+Queens,Violent Felonies,2017,Rate,,36081
+Queens,Non-Violent Felonies,2000,Rate,19.27263,36081
+Queens,Non-Violent Felonies,2001,Rate,17.41741,36081
+Queens,Non-Violent Felonies,2002,Rate,16.67864,36081
+Queens,Non-Violent Felonies,2003,Rate,14.78977,36081
+Queens,Non-Violent Felonies,2004,Rate,15.03827,36081
+Queens,Non-Violent Felonies,2005,Rate,14.64787,36081
+Queens,Non-Violent Felonies,2006,Rate,14.09824,36081
+Queens,Non-Violent Felonies,2007,Rate,13.24472,36081
+Queens,Non-Violent Felonies,2008,Rate,12.54684,36081
+Queens,Non-Violent Felonies,2009,Rate,11.51206,36081
+Queens,Non-Violent Felonies,2010,Rate,11.77165,36081
+Queens,Non-Violent Felonies,2011,Rate,11.70631,36081
+Queens,Non-Violent Felonies,2012,Rate,12.05929,36081
+Queens,Non-Violent Felonies,2013,Rate,12.13409,36081
+Queens,Non-Violent Felonies,2014,Rate,11.77086,36081
+Queens,Non-Violent Felonies,2015,Rate,11.15833,36081
+Queens,Non-Violent Felonies,2016,Rate,11.13305,36081
+Queens,Non-Violent Felonies,2017,Rate,,36081
+Queens,Misdemeanors,2000,Rate,36.07776,36081
+Queens,Misdemeanors,2001,Rate,34.37729,36081
+Queens,Misdemeanors,2002,Rate,32.73961,36081
+Queens,Misdemeanors,2003,Rate,30.31337,36081
+Queens,Misdemeanors,2004,Rate,28.98565,36081
+Queens,Misdemeanors,2005,Rate,28.88271,36081
+Queens,Misdemeanors,2006,Rate,29.82695,36081
+Queens,Misdemeanors,2007,Rate,30.91522,36081
+Queens,Misdemeanors,2008,Rate,30.48573,36081
+Queens,Misdemeanors,2009,Rate,29.78569,36081
+Queens,Misdemeanors,2010,Rate,31.29184,36081
+Queens,Misdemeanors,2011,Rate,31.10664,36081
+Queens,Misdemeanors,2012,Rate,29.26296,36081
+Queens,Misdemeanors,2013,Rate,29.4616,36081
+Queens,Misdemeanors,2014,Rate,28.54823,36081
+Queens,Misdemeanors,2015,Rate,25.79826,36081
+Queens,Misdemeanors,2016,Rate,24.55965,36081
+Queens,Misdemeanors,2017,Rate,,36081
+Queens,Violent Felonies,2000,Number,11790,36081
+Queens,Violent Felonies,2001,Number,10539,36081
+Queens,Violent Felonies,2002,Number,9954,36081
+Queens,Violent Felonies,2003,Number,9077,36081
+Queens,Violent Felonies,2004,Number,8629,36081
+Queens,Violent Felonies,2005,Number,8575,36081
+Queens,Violent Felonies,2006,Number,8496,36081
+Queens,Violent Felonies,2007,Number,7994,36081
+Queens,Violent Felonies,2008,Number,8066,36081
+Queens,Violent Felonies,2009,Number,7520,36081
+Queens,Violent Felonies,2010,Number,7672,36081
+Queens,Violent Felonies,2011,Number,8166,36081
+Queens,Violent Felonies,2012,Number,8464,36081
+Queens,Violent Felonies,2013,Number,8339,36081
+Queens,Violent Felonies,2014,Number,7594,36081
+Queens,Violent Felonies,2015,Number,7583,36081
+Queens,Violent Felonies,2016,Number,7264,36081
+Queens,Violent Felonies,2017,Number,7020,36081
+Queens,Non-Violent Felonies,2000,Number,42966,36081
+Queens,Non-Violent Felonies,2001,Number,38830,36081
+Queens,Non-Violent Felonies,2002,Number,37183,36081
+Queens,Non-Violent Felonies,2003,Number,32972,36081
+Queens,Non-Violent Felonies,2004,Number,33526,36081
+Queens,Non-Violent Felonies,2005,Number,32450,36081
+Queens,Non-Violent Felonies,2006,Number,31794,36081
+Queens,Non-Violent Felonies,2007,Number,30070,36081
+Queens,Non-Violent Felonies,2008,Number,28770,36081
+Queens,Non-Violent Felonies,2009,Number,26555,36081
+Queens,Non-Violent Felonies,2010,Number,26296,36081
+Queens,Non-Violent Felonies,2011,Number,26314,36081
+Queens,Non-Violent Felonies,2012,Number,27408,36081
+Queens,Non-Violent Felonies,2013,Number,27862,36081
+Queens,Non-Violent Felonies,2014,Number,27327,36081
+Queens,Non-Violent Felonies,2015,Number,26101,36081
+Queens,Non-Violent Felonies,2016,Number,25974,36081
+Queens,Non-Violent Felonies,2017,Number,23759,36081
+Queens,Misdemeanors,2000,Number,80431,36081
+Queens,Misdemeanors,2001,Number,76640,36081
+Queens,Misdemeanors,2002,Number,72989,36081
+Queens,Misdemeanors,2003,Number,67580,36081
+Queens,Misdemeanors,2004,Number,64620,36081
+Queens,Misdemeanors,2005,Number,63985,36081
+Queens,Misdemeanors,2006,Number,67265,36081
+Queens,Misdemeanors,2007,Number,70188,36081
+Queens,Misdemeanors,2008,Number,69904,36081
+Queens,Misdemeanors,2009,Number,68707,36081
+Queens,Misdemeanors,2010,Number,69901,36081
+Queens,Misdemeanors,2011,Number,69923,36081
+Queens,Misdemeanors,2012,Number,66508,36081
+Queens,Misdemeanors,2013,Number,67649,36081
+Queens,Misdemeanors,2014,Number,66277,36081
+Queens,Misdemeanors,2015,Number,60346,36081
+Queens,Misdemeanors,2016,Number,57299,36081
+Queens,Misdemeanors,2017,Number,55151,36081
+Astoria,Violent Felonies,2014,Rate,2.9269,401
+Astoria,Violent Felonies,2013,Rate,3.56288,401
+Astoria,Violent Felonies,2012,Rate,4.37483,401
+Astoria,Violent Felonies,2011,Rate,4.16632,401
+Astoria,Violent Felonies,2010,Rate,3.34894,401
+Astoria,Violent Felonies,2009,Rate,3.44683,401
+Astoria,Violent Felonies,2008,Rate,3.43456,401
+Astoria,Violent Felonies,2007,Rate,3.70787,401
+Astoria,Violent Felonies,2006,Rate,4.00532,401
+Astoria,Violent Felonies,2005,Rate,3.94201,401
+Astoria,Violent Felonies,2004,Rate,4.17568,401
+Astoria,Violent Felonies,2003,Rate,3.93902,401
+Astoria,Violent Felonies,2002,Rate,4.47401,401
+Astoria,Violent Felonies,2001,Rate,4.78648,401
+Astoria,Violent Felonies,2000,Rate,4.79595,401
+Astoria,Violent Felonies,2015,Rate,3.1,401
+Sunnyside/Woodside,Violent Felonies,2015,Rate,2,402
+Sunnyside/Woodside,Violent Felonies,2013,Rate,2.4929,402
+Sunnyside/Woodside,Violent Felonies,2012,Rate,2.52139,402
+Sunnyside/Woodside,Violent Felonies,2011,Rate,2.22207,402
+Sunnyside/Woodside,Violent Felonies,2010,Rate,3.03887,402
+Sunnyside/Woodside,Violent Felonies,2009,Rate,2.10669,402
+Sunnyside/Woodside,Violent Felonies,2008,Rate,2.52139,402
+Sunnyside/Woodside,Violent Felonies,2007,Rate,2.53705,402
+Sunnyside/Woodside,Violent Felonies,2006,Rate,2.7667,402
+Sunnyside/Woodside,Violent Felonies,2005,Rate,3.08218,402
+Sunnyside/Woodside,Violent Felonies,2004,Rate,3.09658,402
+Sunnyside/Woodside,Violent Felonies,2003,Rate,4.4032,402
+Sunnyside/Woodside,Violent Felonies,2002,Rate,5.1401,402
+Sunnyside/Woodside,Violent Felonies,2001,Rate,4.34862,402
+Sunnyside/Woodside,Violent Felonies,2000,Rate,6.11354,402
+Sunnyside/Woodside,Violent Felonies,2014,Rate,2.2851,402
+Jackson Heights,Violent Felonies,2013,Rate,4.10034,403
+Jackson Heights,Violent Felonies,2012,Rate,3.96682,403
+Jackson Heights,Violent Felonies,2011,Rate,4.05026,403
+Jackson Heights,Violent Felonies,2010,Rate,4.1148,403
+Jackson Heights,Violent Felonies,2009,Rate,3.82114,403
+Jackson Heights,Violent Felonies,2008,Rate,3.70189,403
+Jackson Heights,Violent Felonies,2007,Rate,3.53023,403
+Jackson Heights,Violent Felonies,2006,Rate,4.35973,403
+Jackson Heights,Violent Felonies,2005,Rate,4.25934,403
+Jackson Heights,Violent Felonies,2004,Rate,4.24277,403
+Jackson Heights,Violent Felonies,2003,Rate,4.12815,403
+Jackson Heights,Violent Felonies,2002,Rate,5.1454,403
+Jackson Heights,Violent Felonies,2001,Rate,4.67226,403
+Jackson Heights,Violent Felonies,2000,Rate,5.44112,403
+Jackson Heights,Violent Felonies,2015,Rate,4,403
+Jackson Heights,Violent Felonies,2014,Rate,3.9868,403
+Elmhurst/Corona,Violent Felonies,2015,Rate,4.6,404
+Elmhurst/Corona,Violent Felonies,2013,Rate,4.77271,404
+Elmhurst/Corona,Violent Felonies,2012,Rate,4.8225,404
+Elmhurst/Corona,Violent Felonies,2011,Rate,4.52571,404
+Elmhurst/Corona,Violent Felonies,2010,Rate,3.7486,404
+Elmhurst/Corona,Violent Felonies,2009,Rate,4.153,404
+Elmhurst/Corona,Violent Felonies,2008,Rate,4.78362,404
+Elmhurst/Corona,Violent Felonies,2007,Rate,4.79377,404
+Elmhurst/Corona,Violent Felonies,2006,Rate,5.18064,404
+Elmhurst/Corona,Violent Felonies,2005,Rate,5.50846,404
+Elmhurst/Corona,Violent Felonies,2004,Rate,5.71646,404
+Elmhurst/Corona,Violent Felonies,2003,Rate,5.36511,404
+Elmhurst/Corona,Violent Felonies,2002,Rate,5.67049,404
+Elmhurst/Corona,Violent Felonies,2001,Rate,6.02377,404
+Elmhurst/Corona,Violent Felonies,2000,Rate,6.05371,404
+Elmhurst/Corona,Violent Felonies,2014,Rate,3.8839,404
+Ridgewood/Glendale,Violent Felonies,2013,Rate,3.13449,405
+Ridgewood/Glendale,Violent Felonies,2012,Rate,3.3536,405
+Ridgewood/Glendale,Violent Felonies,2011,Rate,3.04574,405
+Ridgewood/Glendale,Violent Felonies,2010,Rate,3.03209,405
+Ridgewood/Glendale,Violent Felonies,2009,Rate,2.54293,405
+Ridgewood/Glendale,Violent Felonies,2008,Rate,2.8123,405
+Ridgewood/Glendale,Violent Felonies,2007,Rate,2.52678,405
+Ridgewood/Glendale,Violent Felonies,2006,Rate,2.69792,405
+Ridgewood/Glendale,Violent Felonies,2005,Rate,2.94579,405
+Ridgewood/Glendale,Violent Felonies,2004,Rate,3.37168,405
+Ridgewood/Glendale,Violent Felonies,2003,Rate,3.86955,405
+Ridgewood/Glendale,Violent Felonies,2002,Rate,3.89365,405
+Ridgewood/Glendale,Violent Felonies,2001,Rate,3.84544,405
+Ridgewood/Glendale,Violent Felonies,2000,Rate,3.8816,405
+Ridgewood/Glendale,Violent Felonies,2015,Rate,2,405
+Ridgewood/Glendale,Violent Felonies,2014,Rate,2.4545,405
+Rego Park/Forest Hills,Violent Felonies,2013,Rate,1.20715,406
+Rego Park/Forest Hills,Violent Felonies,2012,Rate,1.66414,406
+Rego Park/Forest Hills,Violent Felonies,2011,Rate,1.60815,406
+Rego Park/Forest Hills,Violent Felonies,2010,Rate,1.61579,406
+Rego Park/Forest Hills,Violent Felonies,2009,Rate,1.64427,406
+Rego Park/Forest Hills,Violent Felonies,2008,Rate,1.85738,406
+Rego Park/Forest Hills,Violent Felonies,2007,Rate,1.50088,406
+Rego Park/Forest Hills,Violent Felonies,2006,Rate,2.345,406
+Rego Park/Forest Hills,Violent Felonies,2005,Rate,2.45515,406
+Rego Park/Forest Hills,Violent Felonies,2004,Rate,2.35213,406
+Rego Park/Forest Hills,Violent Felonies,2003,Rate,2.04369,406
+Rego Park/Forest Hills,Violent Felonies,2002,Rate,2.20753,406
+Rego Park/Forest Hills,Violent Felonies,2001,Rate,2.69904,406
+Rego Park/Forest Hills,Violent Felonies,2000,Rate,2.94049,406
+Rego Park/Forest Hills,Violent Felonies,2015,Rate,0.9,406
+Rego Park/Forest Hills,Violent Felonies,2014,Rate,1.1785,406
+Flushing,Violent Felonies,2015,Rate,1.8,407
+Flushing,Violent Felonies,2013,Rate,2.24279,407
+Flushing,Violent Felonies,2012,Rate,2.17483,407
+Flushing,Violent Felonies,2011,Rate,2.09618,407
+Flushing,Violent Felonies,2010,Rate,1.82734,407
+Flushing,Violent Felonies,2009,Rate,1.90108,407
+Flushing,Violent Felonies,2008,Rate,2.01908,407
+Flushing,Violent Felonies,2007,Rate,2.17167,407
+Flushing,Violent Felonies,2006,Rate,2.00777,407
+Flushing,Violent Felonies,2005,Rate,2.64107,407
+Flushing,Violent Felonies,2004,Rate,2.51295,407
+Flushing,Violent Felonies,2003,Rate,2.88123,407
+Flushing,Violent Felonies,2002,Rate,3.00059,407
+Flushing,Violent Felonies,2001,Rate,2.93474,407
+Flushing,Violent Felonies,2000,Rate,3.39162,407
+Flushing,Violent Felonies,2014,Rate,1.8228,407
+Fresh Meadows/Briarwood,Violent Felonies,2014,Rate,2.1026,408
+Fresh Meadows/Briarwood,Violent Felonies,2013,Rate,2.45795,408
+Fresh Meadows/Briarwood,Violent Felonies,2012,Rate,2.45162,408
+Fresh Meadows/Briarwood,Violent Felonies,2011,Rate,2.60332,408
+Fresh Meadows/Briarwood,Violent Felonies,2010,Rate,2.4486,408
+Fresh Meadows/Briarwood,Violent Felonies,2009,Rate,2.26642,408
+Fresh Meadows/Briarwood,Violent Felonies,2008,Rate,2.84649,408
+Fresh Meadows/Briarwood,Violent Felonies,2007,Rate,2.71743,408
+Fresh Meadows/Briarwood,Violent Felonies,2006,Rate,3.15524,408
+Fresh Meadows/Briarwood,Violent Felonies,2005,Rate,3.90344,408
+Fresh Meadows/Briarwood,Violent Felonies,2004,Rate,3.68578,408
+Fresh Meadows/Briarwood,Violent Felonies,2003,Rate,3.71093,408
+Fresh Meadows/Briarwood,Violent Felonies,2002,Rate,3.77232,408
+Fresh Meadows/Briarwood,Violent Felonies,2001,Rate,3.8269,408
+Fresh Meadows/Briarwood,Violent Felonies,2000,Rate,4.08612,408
+Fresh Meadows/Briarwood,Violent Felonies,2015,Rate,2.1,408
+Woodhaven,Violent Felonies,2015,Rate,3.5,409
+Woodhaven,Violent Felonies,2013,Rate,4.51487,409
+Woodhaven,Violent Felonies,2012,Rate,4.19768,409
+Woodhaven,Violent Felonies,2011,Rate,3.5927,409
+Woodhaven,Violent Felonies,2010,Rate,3.6981,409
+Woodhaven,Violent Felonies,2009,Rate,3.78571,409
+Woodhaven,Violent Felonies,2008,Rate,3.75325,409
+Woodhaven,Violent Felonies,2007,Rate,3.97635,409
+Woodhaven,Violent Felonies,2006,Rate,4.30491,409
+Woodhaven,Violent Felonies,2005,Rate,4.40675,409
+Woodhaven,Violent Felonies,2004,Rate,4.1431,409
+Woodhaven,Violent Felonies,2003,Rate,4.52658,409
+Woodhaven,Violent Felonies,2002,Rate,5.45873,409
+Woodhaven,Violent Felonies,2001,Rate,5.85419,409
+Woodhaven,Violent Felonies,2000,Rate,6.74397,409
+Woodhaven,Violent Felonies,2014,Rate,3.2492,409
+Howard Beach,Violent Felonies,2014,Rate,3.9903,410
+Howard Beach,Violent Felonies,2013,Rate,4.5503,410
+Howard Beach,Violent Felonies,2012,Rate,3.91957,410
+Howard Beach,Violent Felonies,2011,Rate,3.77861,410
+Howard Beach,Violent Felonies,2010,Rate,3.56221,410
+Howard Beach,Violent Felonies,2009,Rate,3.39971,410
+Howard Beach,Violent Felonies,2008,Rate,3.73244,410
+Howard Beach,Violent Felonies,2007,Rate,3.94779,410
+Howard Beach,Violent Felonies,2006,Rate,4.81452,410
+Howard Beach,Violent Felonies,2005,Rate,4.21482,410
+Howard Beach,Violent Felonies,2004,Rate,3.94082,410
+Howard Beach,Violent Felonies,2003,Rate,3.22925,410
+Howard Beach,Violent Felonies,2002,Rate,3.88925,410
+Howard Beach,Violent Felonies,2001,Rate,4.84781,410
+Howard Beach,Violent Felonies,2000,Rate,6.26994,410
+Howard Beach,Violent Felonies,2015,Rate,3.7,410
+Bayside,Violent Felonies,2015,Rate,1,411
+Bayside,Violent Felonies,2013,Rate,1.14498,411
+Bayside,Violent Felonies,2012,Rate,1.16122,411
+Bayside,Violent Felonies,2011,Rate,1.13762,411
+Bayside,Violent Felonies,2010,Rate,1.19384,411
+Bayside,Violent Felonies,2009,Rate,1.07587,411
+Bayside,Violent Felonies,2008,Rate,1.1281,411
+Bayside,Violent Felonies,2007,Rate,1.19113,411
+Bayside,Violent Felonies,2006,Rate,1.62161,411
+Bayside,Violent Felonies,2005,Rate,1.55055,411
+Bayside,Violent Felonies,2004,Rate,1.78359,411
+Bayside,Violent Felonies,2003,Rate,1.69238,411
+Bayside,Violent Felonies,2002,Rate,1.35734,411
+Bayside,Violent Felonies,2001,Rate,1.90715,411
+Bayside,Violent Felonies,2000,Rate,2.11333,411
+Bayside,Violent Felonies,2014,Rate,0.9174,411
+Jamaica/St. Albans,Violent Felonies,2014,Rate,6.49,412
+Jamaica/St. Albans,Violent Felonies,2015,Rate,6.2,412
+Jamaica/St. Albans,Violent Felonies,2013,Rate,7.50456,412
+Jamaica/St. Albans,Violent Felonies,2012,Rate,7.65798,412
+Jamaica/St. Albans,Violent Felonies,2011,Rate,7.70017,412
+Jamaica/St. Albans,Violent Felonies,2010,Rate,7.18399,412
+Jamaica/St. Albans,Violent Felonies,2009,Rate,7.04334,412
+Jamaica/St. Albans,Violent Felonies,2008,Rate,7.32921,412
+Jamaica/St. Albans,Violent Felonies,2007,Rate,7.28498,412
+Jamaica/St. Albans,Violent Felonies,2006,Rate,7.19524,412
+Jamaica/St. Albans,Violent Felonies,2005,Rate,6.57994,412
+Jamaica/St. Albans,Violent Felonies,2004,Rate,6.63778,412
+Jamaica/St. Albans,Violent Felonies,2003,Rate,6.67704,412
+Jamaica/St. Albans,Violent Felonies,2002,Rate,7.55807,412
+Jamaica/St. Albans,Violent Felonies,2001,Rate,8.18866,412
+Jamaica/St. Albans,Violent Felonies,2000,Rate,9.29777,412
+Queens Village,Violent Felonies,2013,Rate,3.36282,413
+Queens Village,Violent Felonies,2012,Rate,3.46395,413
+Queens Village,Violent Felonies,2011,Rate,3.2496,413
+Queens Village,Violent Felonies,2010,Rate,3.39885,413
+Queens Village,Violent Felonies,2009,Rate,3.08621,413
+Queens Village,Violent Felonies,2008,Rate,3.43124,413
+Queens Village,Violent Felonies,2007,Rate,3.59776,413
+Queens Village,Violent Felonies,2006,Rate,3.4019,413
+Queens Village,Violent Felonies,2005,Rate,3.51861,413
+Queens Village,Violent Felonies,2004,Rate,3.64031,413
+Queens Village,Violent Felonies,2003,Rate,3.67325,413
+Queens Village,Violent Felonies,2002,Rate,3.86175,413
+Queens Village,Violent Felonies,2001,Rate,3.99931,413
+Queens Village,Violent Felonies,2000,Rate,3.99931,413
+Queens Village,Violent Felonies,2015,Rate,3.3,413
+Queens Village,Violent Felonies,2014,Rate,3.0865,413
+The Rockaways,Violent Felonies,2014,Rate,5.9753,414
+The Rockaways,Violent Felonies,2015,Rate,6,414
+The Rockaways,Violent Felonies,2013,Rate,4.64326,414
+The Rockaways,Violent Felonies,2012,Rate,4.6978,414
+The Rockaways,Violent Felonies,2011,Rate,5.1693,414
+The Rockaways,Violent Felonies,2010,Rate,3.8964,414
+The Rockaways,Violent Felonies,2009,Rate,4.07573,414
+The Rockaways,Violent Felonies,2008,Rate,4.54414,414
+The Rockaways,Violent Felonies,2007,Rate,4.49362,414
+The Rockaways,Violent Felonies,2006,Rate,4.18233,414
+The Rockaways,Violent Felonies,2005,Rate,3.99327,414
+The Rockaways,Violent Felonies,2004,Rate,3.88583,414
+The Rockaways,Violent Felonies,2003,Rate,5.44589,414
+The Rockaways,Violent Felonies,2002,Rate,5.33341,414
+The Rockaways,Violent Felonies,2001,Rate,6.98311,414
+The Rockaways,Violent Felonies,2000,Rate,8.46409,414
+Staten Island,Violent Felonies,2000,Number,1219,36085
+Staten Island,Violent Felonies,2001,Number,1066,36085
+Staten Island,Violent Felonies,2002,Number,1018,36085
+Staten Island,Violent Felonies,2003,Number,878,36085
+Staten Island,Violent Felonies,2004,Number,1031,36085
+Staten Island,Violent Felonies,2005,Number,1064,36085
+Staten Island,Violent Felonies,2006,Number,946,36085
+Staten Island,Violent Felonies,2007,Number,978,36085
+Staten Island,Violent Felonies,2008,Number,985,36085
+Staten Island,Violent Felonies,2009,Number,934,36085
+Staten Island,Violent Felonies,2010,Number,984,36085
+Staten Island,Violent Felonies,2011,Number,1024,36085
+Staten Island,Violent Felonies,2012,Number,1199,36085
+Staten Island,Violent Felonies,2013,Number,1247,36085
+Staten Island,Violent Felonies,2014,Number,1125,36085
+Staten Island,Violent Felonies,2015,Number,1192,36085
+Staten Island,Violent Felonies,2016,Number,1147,36085
+Staten Island,Violent Felonies,2017,Number,1037,36085
+Staten Island,Non-Violent Felonies,2000,Number,7156,36085
+Staten Island,Non-Violent Felonies,2001,Number,5748,36085
+Staten Island,Non-Violent Felonies,2002,Number,5627,36085
+Staten Island,Non-Violent Felonies,2003,Number,4983,36085
+Staten Island,Non-Violent Felonies,2004,Number,5230,36085
+Staten Island,Non-Violent Felonies,2005,Number,5230,36085
+Staten Island,Non-Violent Felonies,2006,Number,5559,36085
+Staten Island,Non-Violent Felonies,2007,Number,5378,36085
+Staten Island,Non-Violent Felonies,2008,Number,5382,36085
+Staten Island,Non-Violent Felonies,2009,Number,4798,36085
+Staten Island,Non-Violent Felonies,2010,Number,4480,36085
+Staten Island,Non-Violent Felonies,2011,Number,4511,36085
+Staten Island,Non-Violent Felonies,2012,Number,4426,36085
+Staten Island,Non-Violent Felonies,2013,Number,4557,36085
+Staten Island,Non-Violent Felonies,2014,Number,4633,36085
+Staten Island,Non-Violent Felonies,2015,Number,4549,36085
+Staten Island,Non-Violent Felonies,2016,Number,4611,36085
+Staten Island,Non-Violent Felonies,2017,Number,4205,36085
+Staten Island,Misdemeanors,2000,Number,17311,36085
+Staten Island,Misdemeanors,2001,Number,16485,36085
+Staten Island,Misdemeanors,2002,Number,17266,36085
+Staten Island,Misdemeanors,2003,Number,15682,36085
+Staten Island,Misdemeanors,2004,Number,15980,36085
+Staten Island,Misdemeanors,2005,Number,16138,36085
+Staten Island,Misdemeanors,2006,Number,17914,36085
+Staten Island,Misdemeanors,2007,Number,17018,36085
+Staten Island,Misdemeanors,2008,Number,19273,36085
+Staten Island,Misdemeanors,2009,Number,16961,36085
+Staten Island,Misdemeanors,2010,Number,17008,36085
+Staten Island,Misdemeanors,2011,Number,16592,36085
+Staten Island,Misdemeanors,2012,Number,16185,36085
+Staten Island,Misdemeanors,2013,Number,15156,36085
+Staten Island,Misdemeanors,2014,Number,15300,36085
+Staten Island,Misdemeanors,2015,Number,13819,36085
+Staten Island,Misdemeanors,2016,Number,13777,36085
+Staten Island,Misdemeanors,2017,Number,13020,36085
+Staten Island,Violent Felonies,2000,Rate,2.74718,36085
+Staten Island,Violent Felonies,2001,Rate,2.40237,36085
+Staten Island,Violent Felonies,2002,Rate,2.2942,36085
+Staten Island,Violent Felonies,2003,Rate,1.97869,36085
+Staten Island,Violent Felonies,2004,Rate,2.3235,36085
+Staten Island,Violent Felonies,2005,Rate,2.33669,36085
+Staten Island,Violent Felonies,2006,Rate,1.98166,36085
+Staten Island,Violent Felonies,2007,Rate,2.03068,36085
+Staten Island,Violent Felonies,2008,Rate,2.0209,36085
+Staten Island,Violent Felonies,2009,Rate,1.89942,36085
+Staten Island,Violent Felonies,2010,Rate,2.09646,36085
+Staten Island,Violent Felonies,2011,Rate,2.17656,36085
+Staten Island,Violent Felonies,2012,Rate,2.54712,36085
+Staten Island,Violent Felonies,2013,Rate,2.63848,36085
+Staten Island,Violent Felonies,2014,Rate,2.37703,36085
+Staten Island,Violent Felonies,2015,Rate,2.51181,36085
+Staten Island,Violent Felonies,2016,Rate,2.40959,36085
+Staten Island,Violent Felonies,2017,Rate,,36085
+Staten Island,Non-Violent Felonies,2000,Rate,16.127,36085
+Staten Island,Non-Violent Felonies,2001,Rate,12.95388,36085
+Staten Island,Non-Violent Felonies,2002,Rate,12.68119,36085
+Staten Island,Non-Violent Felonies,2003,Rate,11.22985,36085
+Staten Island,Non-Violent Felonies,2004,Rate,11.7865,36085
+Staten Island,Non-Violent Felonies,2005,Rate,11.48582,36085
+Staten Island,Non-Violent Felonies,2006,Rate,11.64488,36085
+Staten Island,Non-Violent Felonies,2007,Rate,11.16664,36085
+Staten Island,Non-Violent Felonies,2008,Rate,11.04211,36085
+Staten Island,Non-Violent Felonies,2009,Rate,9.75739,36085
+Staten Island,Non-Violent Felonies,2010,Rate,9.54485,36085
+Staten Island,Non-Violent Felonies,2011,Rate,9.58835,36085
+Staten Island,Non-Violent Felonies,2012,Rate,9.40246,36085
+Staten Island,Non-Violent Felonies,2013,Rate,9.64198,36085
+Staten Island,Non-Violent Felonies,2014,Rate,9.78915,36085
+Staten Island,Non-Violent Felonies,2015,Rate,9.58576,36085
+Staten Island,Non-Violent Felonies,2016,Rate,9.68667,36085
+Staten Island,Non-Violent Felonies,2017,Rate,,36085
+Staten Island,Misdemeanors,2000,Rate,39.01264,36085
+Staten Island,Misdemeanors,2001,Rate,37.15114,36085
+Staten Island,Misdemeanors,2002,Rate,38.91122,36085
+Staten Island,Misdemeanors,2003,Rate,35.34147,36085
+Staten Island,Misdemeanors,2004,Rate,36.01305,36085
+Staten Island,Misdemeanors,2005,Rate,35.44134,36085
+Staten Island,Misdemeanors,2006,Rate,37.5259,36085
+Staten Island,Misdemeanors,2007,Rate,35.33542,36085
+Staten Island,Misdemeanors,2008,Rate,39.5419,36085
+Staten Island,Misdemeanors,2009,Rate,34.49251,36085
+Staten Island,Misdemeanors,2010,Rate,36.23635,36085
+Staten Island,Misdemeanors,2011,Rate,35.26709,36085
+Staten Island,Misdemeanors,2012,Rate,34.38291,36085
+Staten Island,Misdemeanors,2013,Rate,32.06798,36085
+Staten Island,Misdemeanors,2014,Rate,32.32765,36085
+Staten Island,Misdemeanors,2015,Rate,29.11973,36085
+Staten Island,Misdemeanors,2016,Rate,28.94237,36085
+Staten Island,Misdemeanors,2017,Rate,,36085
+St. George,Violent Felonies,2013,Rate,5.04077,501
+St. George,Violent Felonies,2012,Rate,4.62154,501
+St. George,Violent Felonies,2011,Rate,3.9386,501
+St. George,Violent Felonies,2010,Rate,3.60158,501
+St. George,Violent Felonies,2009,Rate,3.40058,501
+St. George,Violent Felonies,2008,Rate,3.77738,501
+St. George,Violent Felonies,2007,Rate,3.60438,501
+St. George,Violent Felonies,2006,Rate,4.04406,501
+St. George,Violent Felonies,2005,Rate,4.07606,501
+St. George,Violent Felonies,2004,Rate,3.95147,501
+St. George,Violent Felonies,2003,Rate,3.54224,501
+St. George,Violent Felonies,2002,Rate,4.28021,501
+St. George,Violent Felonies,2001,Rate,4.60614,501
+St. George,Violent Felonies,2000,Rate,4.96283,501
+St. George,Violent Felonies,2014,Rate,4.0014,501
+St. George,Violent Felonies,2015,Rate,4.3,501
+South Beach,Violent Felonies,2015,Rate,2.1,502
+South Beach,Violent Felonies,2014,Rate,2.2073,502
+South Beach,Violent Felonies,2013,Rate,1.34077,502
+South Beach,Violent Felonies,2012,Rate,0.99312,502
+South Beach,Violent Felonies,2011,Rate,0.84833,502
+South Beach,Violent Felonies,2010,Rate,0.94794,502
+South Beach,Violent Felonies,2009,Rate,0.74916,502
+South Beach,Violent Felonies,2008,Rate,0.73982,502
+South Beach,Violent Felonies,2007,Rate,0.77314,502
+South Beach,Violent Felonies,2006,Rate,0.67642,502
+South Beach,Violent Felonies,2005,Rate,0.95537,502
+South Beach,Violent Felonies,2004,Rate,0.96235,502
+South Beach,Violent Felonies,2003,Rate,0.76792,502
+South Beach,Violent Felonies,2002,Rate,0.85364,502
+South Beach,Violent Felonies,2001,Rate,0.8072,502
+South Beach,Violent Felonies,2000,Rate,1.08937,502
+Tottenville,Violent Felonies,2013,Rate,1.13094,503
+Tottenville,Violent Felonies,2012,Rate,1.56944,503
+Tottenville,Violent Felonies,2011,Rate,1.36638,503
+Tottenville,Violent Felonies,2010,Rate,1.40984,503
+Tottenville,Violent Felonies,2009,Rate,1.30447,503
+Tottenville,Violent Felonies,2008,Rate,1.22177,503
+Tottenville,Violent Felonies,2007,Rate,1.3078,503
+Tottenville,Violent Felonies,2006,Rate,0.99597,503
+Tottenville,Violent Felonies,2005,Rate,1.61944,503
+Tottenville,Violent Felonies,2004,Rate,1.53616,503
+Tottenville,Violent Felonies,2003,Rate,1.33688,503
+Tottenville,Violent Felonies,2002,Rate,1.39645,503
+Tottenville,Violent Felonies,2001,Rate,1.40233,503
+Tottenville,Violent Felonies,2000,Rate,1.78914,503
+Tottenville,Violent Felonies,2014,Rate,0.8249,503
+Tottenville,Violent Felonies,2015,Rate,1,503
