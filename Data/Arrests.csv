@@ -1,10 +1,3 @@
-"Name","Arrests"
-"Description","Arrests by offense type.&nbsp;"
-"Source Notes","New York Police Department,&nbsp;Historical New York City Crime Data (2000-2017); Retrieved from&nbsp;<a href=""https://www1.nyc.gov/site/nypd/stats/crime-statistics/historical.page"">https://www1.nyc.gov/site/nypd/stats/crime-statistics/historical.page</a>"
-"Notes","NYPD reports crime data at the citywide and police precinct levels. CCC aggregates the data to the community district level using a population weighting formula. Rates refer to the number of felonies reported per 1,000 residents. U.S. Census Bureau 2000 Decennial Census counts were used to calculate rates for years 2000 through 2004. U.S. Census Bureau American Community Survey 1-year Estimates were used to calculate rates for years 2005 through 2016. See&nbsp;<a href=""http://admin.data.cccnewyork.org/http://data.cccnewyork.org/data/map/97/total-population#97/a/3/147/22/a"">Total Population data</a><a href=""http://admin.data.cccnewyork.org/http://data.cccnewyork.org/data/map/97/total-population#97/a/3/147/22/a"">&nbsp;</a>for more detailed notes and sources for population data. Information is accurate as of the date it was queried from the system of&nbsp;<g class=""gr_ gr_11 gr-alert gr_gramm gr_inline_cards gr_run_anim Punctuation only-del replaceWithoutSep"" id=""11"" data-gr-id=""11"">record,</g>&nbsp;but should be considered a close approximation of current records, due to complaint revisions and updates.&nbsp;<br />
-<br />
-*As of 2016, CCC will no longer present these arrest data on the Community District level. To view crime data at the Community District level, see <a href=""https://data.cccnewyork.org/data/map/1298/reported-felonies#1298/232/3/1516/22/a"" target=""_blank"">Reported Felonies</a>."
-
 Location,Offense Type,TimeFrame,DataFormat,Data,Fips
 New York City,Violent Felonies,2000,Rate,7.64546,3651000
 New York City,Violent Felonies,2001,Rate,6.77861,3651000
